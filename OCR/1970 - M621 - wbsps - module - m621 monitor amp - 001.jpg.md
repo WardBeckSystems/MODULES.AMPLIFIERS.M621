@@ -57,7 +57,7 @@ FEATURES Gect DlouM nim & Operational amiplifter fransformedless design wvleh Ca
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M621/PHOTOS/1970 - M621 - wbsps - module - m621 monitor amp - 001.jpg",
+ "file": "Modules/AMPLIFIERS/M621/MANUALS/1970 - M621 - wbsps - module - m621 monitor amp - 001.jpg",
  "sha256": "3f54fa99525fff11a6ae8957ed74ccf104580977804d84ba6d8f94e31375e835",
  "kind": "module",
  "models": [

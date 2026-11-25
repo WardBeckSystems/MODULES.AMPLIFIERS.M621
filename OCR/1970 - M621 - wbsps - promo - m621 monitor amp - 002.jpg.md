@@ -83,7 +83,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M621/PHOTOS/1970 - M621 - wbsps - promo - m621 monitor amp - 002.jpg",
+ "file": "Modules/AMPLIFIERS/M621/MANUALS/1970 - M621 - wbsps - promo - m621 monitor amp - 002.jpg",
  "sha256": "56a5a2af4099a7b6b56729e2caccc4aaab09cc89b5787f492668051d2b386552",
  "kind": "module",
  "models": [

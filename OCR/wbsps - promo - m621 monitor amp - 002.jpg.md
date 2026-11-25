@@ -53,7 +53,7 @@ WBspSCE
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M621/PHOTOS/wbsps - promo - m621 monitor amp - 002.jpg",
+ "file": "Modules/AMPLIFIERS/M621/MANUALS/wbsps - promo - m621 monitor amp - 002.jpg",
  "sha256": "a7b0eb4af39f459103e10fac2307dd394cfee19bcb2f4be12be0577dbe7693ec",
  "kind": "module",
  "models": [
