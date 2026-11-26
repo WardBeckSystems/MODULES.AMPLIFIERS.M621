@@ -36,7 +36,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Title block:** (352, 19)–(428, 30) mm: WBS WAAD-Beck Bybtemb
 - **Wiring (first pass):** 80 connected wire groups from 579 runs; labelled ends: 118 mm → 2*3791; 102 mm → T420/40; 93 mm → WBS; 77 mm → quIQUI; 68 mm → T420/40
 
-Every curve, box, word and wire group: [1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (traced).json](../SCHEMATICS/1973%20-%20621-02-003%20-%2020%20WATT%20MONITOR%20AMPLIFIER%20-%20DRN%20DPS%20-%20ISS%203%20(traced).json) (the CAD file: `1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (traced).json](../SCHEMATICS/1973%20-%20621-02-003%20-%2020%20WATT%20MONITOR%20AMPLIFIER%20-%20DRN%20DPS%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (traced).dxf`).
 
 ## Full text
 

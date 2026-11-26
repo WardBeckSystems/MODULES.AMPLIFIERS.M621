@@ -27,7 +27,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Title block:** (102, 17)–(253, 88) mm: WBS WAAD-BECK BYSTEMs LTD_ · DRN: · DPs 20 WATT MONITOR AMP · DATE Sept 1973 · CKD_ · Ra · P C B SCHEMATIC · SCALE · TOLS_ · XX
 - **Wiring (first pass):** 10 connected wire groups from 70 runs; labelled ends: 251 mm → WBS, ON; 202 mm → DRN:, DATE, CKD_; 60 mm → SCHEMATIC, 173-02-001, ISS.; 36 mm → NOTES, UNLEss, 'aWATT,; 29 mm → LTD_, BYSTEMs
 
-Every curve, box, word and wire group: [1973 - M621 - 173-02-001 - OHMS CAPAC ITOR VALUES SIGNATIONS (traced).json](../SCHEMATICS/1973%20-%20M621%20-%20173-02-001%20-%20OHMS%20CAPAC%20ITOR%20VALUES%20SIGNATIONS%20(traced).json) (the CAD file: `1973 - M621 - 173-02-001 - OHMS CAPAC ITOR VALUES SIGNATIONS (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 173-02-001 - OHMS CAPAC ITOR VALUES SIGNATIONS (traced).json](../SCHEMATICS/1973%20-%20M621%20-%20173-02-001%20-%20OHMS%20CAPAC%20ITOR%20VALUES%20SIGNATIONS%20%28traced%29.json) (the CAD file: `1973 - M621 - 173-02-001 - OHMS CAPAC ITOR VALUES SIGNATIONS (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Output transformer connection diagram for M621T, title block cropped at right.
 - **Title block:** (54, 16)–(321, 94) mm: ISS MOD  CKD: · USED ON · MATL · WBS WA · DRN: · BJ · DATESEPL73 · FINISH · CKD · SCALE · TOLS_
 - **Wiring (first pass):** 80 connected wire groups from 289 runs; labelled ends: 108 mm → TRANSFORMER CONNECT IONS; 92 mm → 160; 87 mm → 160; 55 mm → IOO; 55 mm → 160
 
-Every curve, box, word and wire group: [1973 - 621-02-004 - OUTPUT TRANSFORMER CONNECTIONS (4 OHM 16 OHM 150 OHM; title block cut - DRN BJ (traced).json](../PINOUTS/1973%20-%20621-02-004%20-%20OUTPUT%20TRANSFORMER%20CONNECTIONS%20(4%20OHM%2016%20OHM%20150%20OHM%3B%20title%20block%20cut%20-%20DRN%20BJ%20(traced).json) (the CAD file: `1973 - 621-02-004 - OUTPUT TRANSFORMER CONNECTIONS (4 OHM 16 OHM 150 OHM; title block cut - DRN BJ (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 621-02-004 - OUTPUT TRANSFORMER CONNECTIONS (4 OHM 16 OHM 150 OHM; title block cut - DRN BJ (traced).json](../PINOUTS/1973%20-%20621-02-004%20-%20OUTPUT%20TRANSFORMER%20CONNECTIONS%20%284%20OHM%2016%20OHM%20150%20OHM%3B%20title%20block%20cut%20-%20DRN%20BJ%20%28traced%29.json) (the CAD file: `1973 - 621-02-004 - OUTPUT TRANSFORMER CONNECTIONS (4 OHM 16 OHM 150 OHM; title block cut - DRN BJ (traced).dxf`).
 
 ## Full text
 

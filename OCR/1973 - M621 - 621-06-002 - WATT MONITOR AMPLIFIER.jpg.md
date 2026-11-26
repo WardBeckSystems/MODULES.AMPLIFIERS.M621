@@ -26,7 +26,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Words (OCR):** 55 in 39 lines: NOTES · COVER NOT SHOWN. · HEAT Sink AND FRONT PANEL · SHOWN SEPARATE · FOR · CLARiTY · ALL · VIEwS · FROM INSIDE · HEAT SINk · Crs Ca6 · CR7
 - **Title block:** (137, 10)–(410, 62) mm: IsS MOD CKD: · USED Ov · MATL. · 2307 · WBS WARD-BECK SYSTEMS LTD · DRN BZ · M62i · DATE · SEPT 73 · FINISH · CKD · 027 · 20 WATT MONITOR AMPLIFIER · SCALE NIS · COMPONENT LAYQUT · TOLS · ISS_ · 621- 
 
-Every curve, box, word and wire group: [1973 - M621 - 621-06-002 - WATT MONITOR AMPLIFIER (traced).json](../SCHEMATICS/1973%20-%20M621%20-%20621-06-002%20-%20WATT%20MONITOR%20AMPLIFIER%20(traced).json) (the CAD file: `1973 - M621 - 621-06-002 - WATT MONITOR AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621-06-002 - WATT MONITOR AMPLIFIER (traced).json](../SCHEMATICS/1973%20-%20M621%20-%20621-06-002%20-%20WATT%20MONITOR%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1973 - M621 - 621-06-002 - WATT MONITOR AMPLIFIER (traced).dxf`).
 
 ## Full text
 

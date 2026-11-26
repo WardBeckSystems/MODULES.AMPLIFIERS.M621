@@ -24,7 +24,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Title block:** (345, 17)–(420, 27) mm: WBS · WAAD-beck byeteme LTD
 - **Wiring (first pass):** 91 connected wire groups from 597 runs, 5 dotted junctions; labelled ends: 51 mm → IONS; 47 mm → inpuc; 36 mm → OHM; 32 mm → 163; 24 mm → WBS
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-004 - OUTPUT PRIMARY DIRECT OUTPUT SIGNAL GROUND CHASSIS GROUND (2) (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-004%20-%20OUTPUT%20PRIMARY%20DIRECT%20OUTPUT%20SIGNAL%20GROUND%20CHASSIS%20GROUND%20(2)%20(traced).json) (the CAD file: `1970 - M621 - 621-02-004 - OUTPUT PRIMARY DIRECT OUTPUT SIGNAL GROUND CHASSIS GROUND (2) (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-004 - OUTPUT PRIMARY DIRECT OUTPUT SIGNAL GROUND CHASSIS GROUND (2) (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-004%20-%20OUTPUT%20PRIMARY%20DIRECT%20OUTPUT%20SIGNAL%20GROUND%20CHASSIS%20GROUND%20%282%29%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-004 - OUTPUT PRIMARY DIRECT OUTPUT SIGNAL GROUND CHASSIS GROUND (2) (traced).dxf`).
 
 ## Full text
 

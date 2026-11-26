@@ -41,7 +41,7 @@ M621 20 watt monitor amplifier drawing with notes, cropped.
 - **Title block:** (98, 17)–(249, 87) mm: WBS WARD-BECK BYSTEMS · DRN: · DPs · M 621 · DATE · SEPT 73 · CKD Rk · 20 WATT MONITOR AMPLIFIER · SCALE · XX · 621-02-003
 - **Wiring (first pass):** 23 connected wire groups from 138 runs; labelled ends: 233 mm → ON; 191 mm → DRN:, DATE, CKD; 157 mm → WBS, WARD-BECK, 20 WATT MONITOR AMPLIFIER; 99 mm → 16; 58 mm → BYSTEMS
 
-Every curve, box, word and wire group: [1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (2) (traced).json](../SCHEMATICS/1973%20-%20621-02-003%20-%2020%20WATT%20MONITOR%20AMPLIFIER%20-%20DRN%20DPS%20-%20ISS%203%20(2)%20(traced).json) (the CAD file: `1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (2) (traced).json](../SCHEMATICS/1973%20-%20621-02-003%20-%2020%20WATT%20MONITOR%20AMPLIFIER%20-%20DRN%20DPS%20-%20ISS%203%20%282%29%20%28traced%29.json) (the CAD file: `1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (2) (traced).dxf`).
 
 ## Full text
 

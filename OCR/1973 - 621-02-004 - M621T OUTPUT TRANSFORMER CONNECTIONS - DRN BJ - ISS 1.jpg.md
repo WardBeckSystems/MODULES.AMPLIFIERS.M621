@@ -41,7 +41,7 @@ Output transformer connection diagram for M621T.
 - **Title block:** (99, 16)–(250, 87) mm: WBS WAAD-BECK BYSTEMS LTD. · DRN BJ · M 62it · DATE SEPT 73 · OUTPUT TRANSFORME R · Rc · CKD. · SCALE · TOLS _ · 621-02-004
 - **Wiring (first pass):** 72 connected wire groups from 297 runs; labelled ends: 346 mm → ON; 178 mm → R CONNECT IONS; 114 mm → WAAD-BECK, LTD.; 91 mm → 160; 90 mm → 160
 
-Every curve, box, word and wire group: [1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1 (traced).json](../PINOUTS/1973%20-%20621-02-004%20-%20M621T%20OUTPUT%20TRANSFORMER%20CONNECTIONS%20-%20DRN%20BJ%20-%20ISS%201%20(traced).json) (the CAD file: `1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1 (traced).json](../PINOUTS/1973%20-%20621-02-004%20-%20M621T%20OUTPUT%20TRANSFORMER%20CONNECTIONS%20-%20DRN%20BJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

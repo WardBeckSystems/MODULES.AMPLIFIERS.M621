@@ -22,7 +22,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Words (OCR):** 37 in 33 lines: I5 V AC · 60 HZ · PI · T2 · 6N · YL · P2 · OR · INPUT · Wh · INPUT SHIE LD · SL
 - **Wiring (first pass):** 61 connected wire groups from 232 runs; labelled ends: 363 mm → P2, 15; 171 mm → RD; 157 mm → BR; 142 mm → P2; 142 mm → P2
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-004 - IFIER OUTPUT CHASSIS AMPLIFIER COMMON SIGNA (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-004%20-%20IFIER%20OUTPUT%20CHASSIS%20AMPLIFIER%20COMMON%20SIGNA%20(traced).json) (the CAD file: `1970 - M621 - 621-02-004 - IFIER OUTPUT CHASSIS AMPLIFIER COMMON SIGNA (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-004 - IFIER OUTPUT CHASSIS AMPLIFIER COMMON SIGNA (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-004%20-%20IFIER%20OUTPUT%20CHASSIS%20AMPLIFIER%20COMMON%20SIGNA%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-004 - IFIER OUTPUT CHASSIS AMPLIFIER COMMON SIGNA (traced).dxf`).
 
 ## Full text
 

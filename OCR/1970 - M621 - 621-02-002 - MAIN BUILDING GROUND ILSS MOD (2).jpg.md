@@ -24,7 +24,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Title block:** (341, 4)–(365, 14) mm: IcKDS · ISCALE
 - **Wiring (first pass):** 55 connected wire groups from 438 runs; labelled ends: 224 mm → WBSS, DRA, IcKDS, ISCALE; 69 mm → 5yStEM; 56 mm → DoKn=; 51 mm → G4N; 43 mm → G4N
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (2) (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20MAIN%20BUILDING%20GROUND%20ILSS%20MOD%20(2)%20(traced).json) (the CAD file: `1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (2) (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (2) (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20MAIN%20BUILDING%20GROUND%20ILSS%20MOD%20%282%29%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (2) (traced).dxf`).
 
 ## Full text
 

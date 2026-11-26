@@ -22,7 +22,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Words (OCR):** 31 in 23 lines: 1/5 V 60 Hz · P2 · pi · OUTput 4 3 JBm · pi · 10 · 2ow MAX. · FFT · UNBAL ANCED · P2 · PZ 13 · P2
 - **Wiring (first pass):** 24 connected wire groups from 192 runs; labelled ends: 1228 mm → ISS MOD  CKD-, 053, FINISH; 317 mm → FFT, P2; 168 mm → P2, PZ; 157 mm → 1/5 V; 148 mm → pi, 10
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - MAIN BUILDING GROUND (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20MAIN%20BUILDING%20GROUND%20(traced).json) (the CAD file: `1970 - M621 - 621-02-002 - MAIN BUILDING GROUND (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - MAIN BUILDING GROUND (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20MAIN%20BUILDING%20GROUND%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-002 - MAIN BUILDING GROUND (traced).dxf`).
 
 ## Full text
 

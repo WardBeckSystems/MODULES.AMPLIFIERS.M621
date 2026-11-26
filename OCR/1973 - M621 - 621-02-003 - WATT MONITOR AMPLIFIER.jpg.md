@@ -27,7 +27,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Title block:** (99, 17)–(249, 87) mm: WBS WARD-BECK BYSTEMS LTD · DRN: · DPs · M 621 · DATE · SEPT 73 · CKD R1 · 20 WATT MONITOR AMPLIFIER · SCALE · TOLS _ · XX
 - **Wiring (first pass):** 19 connected wire groups from 91 runs; labelled ends: 234 mm → ON; 191 mm → DRN:, DATE, CKD; 157 mm → LTD, WBS, WARD-BECK, 20 WATT MONITOR AMPLIFIER; 99 mm → 16; 58 mm → BYSTEMS, LTD
 
-Every curve, box, word and wire group: [1973 - M621 - 621-02-003 - WATT MONITOR AMPLIFIER (traced).json](../SCHEMATICS/1973%20-%20M621%20-%20621-02-003%20-%20WATT%20MONITOR%20AMPLIFIER%20(traced).json) (the CAD file: `1973 - M621 - 621-02-003 - WATT MONITOR AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621-02-003 - WATT MONITOR AMPLIFIER (traced).json](../SCHEMATICS/1973%20-%20M621%20-%20621-02-003%20-%20WATT%20MONITOR%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1973 - M621 - 621-02-003 - WATT MONITOR AMPLIFIER (traced).dxf`).
 
 ## Full text
 

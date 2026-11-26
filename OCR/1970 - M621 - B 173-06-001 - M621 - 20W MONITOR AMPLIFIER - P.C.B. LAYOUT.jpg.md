@@ -21,7 +21,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Dots (junctions):** 3
 - **Words (OCR):** 7 in 7 lines: HRA · ~R3 · ER · p3 · 38 · ji · r 54
 
-Every curve, box, word and wire group: [1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20B%20173-06-001%20-%20M621%20-%2020W%20MONITOR%20AMPLIFIER%20-%20P.C.B.%20LAYOUT%20(traced).json) (the CAD file: `1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20B%20173-06-001%20-%20M621%20-%2020W%20MONITOR%20AMPLIFIER%20-%20P.C.B.%20LAYOUT%20%28traced%29.json) (the CAD file: `1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT (traced).dxf`).
 
 ## Full text
 

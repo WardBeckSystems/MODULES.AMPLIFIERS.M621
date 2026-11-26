@@ -25,7 +25,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Words (OCR):** 78 in 65 lines: Holes For TransFer · OF · TrAcK ONLY · 2 2 · Lrbe · RII · 232 · HR44 · c12 · ~42 · 22 · ~14?
 - **Title block:** (265, 20)–(385, 60) mm: SHHEus WARD BECK · M 6 2 | · DATE · 27 JULY 70 · 20W · LA(OUT
 
-Every curve, box, word and wire group: [1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT (2) (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20B%20173-06-001%20-%20M621%20-%2020W%20MONITOR%20AMPLIFIER%20-%20P.C.B.%20LAYOUT%20(2)%20(traced).json) (the CAD file: `1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT (2) (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT (2) (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20B%20173-06-001%20-%20M621%20-%2020W%20MONITOR%20AMPLIFIER%20-%20P.C.B.%20LAYOUT%20%282%29%20%28traced%29.json) (the CAD file: `1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT (2) (traced).dxf`).
 
 ## Full text
 

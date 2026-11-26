@@ -29,7 +29,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Outlines:** line 78 rings, 471 straight (963 mm) / 58 curved (91.1 mm); text 185 rings, 1,627 straight (1,907 mm) / 482 curved (751 mm)
 - **Words (OCR):** 18 in 11 lines: 20w MONI TOR AMPLIFIER · MODEL · M621/M621 · Des igned Manufactured · By · WARD- BECK  SYSTEMS LIMITED · 841 Progress Avenue · Scarborough, · Ontario · (416) 438-6550 · Te lex 06-23469
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p1 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p1%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p1 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p1%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p1 (traced).dxf`).
 
 ### Page 2
 
@@ -39,7 +39,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p1 
 - **Dots (junctions):** 1
 - **Words (OCR):** 47 in 34 lines: Model · M621/M621T · 20w Monitor Amplifier · INSTRUCTION_MANUAL · Contents · Circuit Description · Technical Data M621 · Technical Data · M621T · Amplifier Adjustments · DC Voltage Chart · Parts list
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p2 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p2%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p2 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p2 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p2%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p2 
 - **Dots (junctions):** 1
 - **Words (OCR):** 344 in 171 lines: Model M621/M621T · 20w Monitor · Amplifier · Juqjzo · CIRCUIT_DESCRIPTION · 016 · ba]zuc? · Input · Circuit. · 40 · 1c · 6C
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p3 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p3%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p3 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p3 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p3%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p3 
 - **Outlines:** line 72 rings, 760 straight (1,034 mm) / 199 curved (311 mm); text 1,228 rings, 11,475 straight (11,740 mm) / 3,552 curved (5,378 mm)
 - **Words (OCR):** 258 in 142 lines: Driver and_Qutput_Stages · its · associated components form the power · 23 and · amplifier driver stage · The output · from the driver is · couplea through RS · and · the biasing diodes CRS and · CR6 to · the output power
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p4 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p4%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p4 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p4 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p4%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p4 (traced).dxf`).
 
 ### Page 5
 
@@ -67,7 +67,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p4 
 - **Outlines:** line 52 rings, 288 straight (699 mm) / 56 curved (80.4 mm); text 981 rings, 9,157 straight (9,556 mm) / 2,823 curved (4,242 mm)
 - **Words (OCR):** 131 in 64 lines: Model M621 · 2Ow Monitor Amplifier · TECHNICAL DATA · GA IN: · 43 or · 63 dB matched gain (conditional frame · strap) · Front panel variable control · FREQUENCY RESPONSE: · +0.25 dB from 20 Hz to kHz · 20 · NOISE:
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p5 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p5%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p5 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p5 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p5%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p5 (traced).dxf`).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p5 
 - **Outlines:** line 62 rings, 473 straight (985 mm) / 58 curved (85.4 mm); text 1,016 rings, 8,484 straight (9,480 mm) / 2,367 curved (3,664 mm)
 - **Words (OCR):** 127 in 71 lines: Model M62k-I · 20W Monitor · Amplifier · JECHNICAL DAIA: · GAIN: · 42 or · 62  ma tched ga in (conditiona] ) · ga in strap) · Front pane] variable · contro] · FREQUEnCY · RESPONSE:
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p6 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p6%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p6 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p6 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p6%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p6 (traced).dxf`).
 
 ### Page 7
 
@@ -86,7 +86,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p6 
 - **Dots (junctions):** 1
 - **Words (OCR):** 140 in 57 lines: Model M621/M621T · 20w Monitor Amplifier · AMPLIFIER ADJUSTMENTS · Lonqitudinal · Balance · Ad justment · Strap the · amplifier for low gain and apply · a signal · Adjust the · input signal level for convenient output · level_
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p7 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p7%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p7 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p7 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p7%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p7 (traced).dxf`).
 
 ### Page 8
 
@@ -96,7 +96,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p7 
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (145.2, 150.7), r 2.2 @ (105.3, 227.2)
 - **Words (OCR):** 101 in 66 lines: Model M621 /M621T · 2ow Monitor · Amplifier · DC VOLTAGE · CHART · The following voltages are · DC · typical may · and · vary +lO%. · The idle current shoula be between 35 and 45 mA_ At watts · 20
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p8 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p8%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p8 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p8 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p8%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p8 (traced).dxf`).
 
 ### Page 9
 
@@ -105,7 +105,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p8 
 - **Outlines:** line 99 rings, 866 straight (1,787 mm) / 208 curved (335 mm); text 1,534 rings, 12,578 straight (14,170 mm) / 3,673 curved (5,822 mm)
 - **Words (OCR):** 204 in 151 lines: 40e42 · oje · REPLACEABLE PARTS · A-TevI · M621/M621-T · A-c? RM · SYMBOL · DESCRIPTION · MFG · PART NUMBER · ans · C1
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p9 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p9%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p9 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p9 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p9%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p9 (traced).dxf`).
 
 ### Page 10
 
@@ -116,7 +116,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p9 
 - **Words (OCR):** 134 in 113 lines: REPLACEABLE PARTS · M621 [M621T · SYMBOL · DESCRIPTION · MFG · BARTNUMBER · CRI · Diode Zener · I/R · IN757-A · CR2 · Diode Zener
 - **Title block:** (195, 187)–(222, 226) mm: WBS · WBS
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p10 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p10%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p10 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p10 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p10%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p10 (traced).dxf`).
 
 ### Page 11
 
@@ -126,7 +126,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p10
 - **Words (OCR):** 133 in 116 lines: REPLACEABLE PARTS · M621/M62LT · SYMBOL · DESCRIPTION · MFG · PART · NUMBER · Philips Al1 · Rl · 1K ohms · or · resistors %w
 - **Title block:** (198, 213)–(242, 282) mm: Beckman · VC mlo · uulo · TS · Beckman · {Jc7969 T.0, 2
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p11 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p11%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p11 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p11 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p11%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p11 (traced).dxf`).
 
 ### Page 12
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p11
 - **Closed boxes:** 2
 - **Words (OCR):** 132 in 113 lines: REPLACEABLE PARTS · M621/M621T · SYMBOL · DESCRIPTION · MFG . · PART NUMBER · 2 .2K · &Io 7 · R42 · 150 ohm · R43 · 2 . 2K
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p12 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p12%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p12 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p12 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p12%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p12 (traced).dxf`).
 
 ### Page 13
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p12
 - **Dots (junctions):** 4
 - **Words (OCR):** 31 in 24 lines: P 2 · INPUT · 16 · PC B 17 3 · STRAP TOGETHER · FOR · Low GAiN · STRAP TOGETHER · FOR LOw GAIN · INPUT AND · REMOTE GAIN · SHIELD
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p13 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p13%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p13 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p13 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p13%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p13 (traced).dxf`).
 
 ### Page 14
 
@@ -157,7 +157,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p13
 - **Outlines:** line 69 rings, 4,024 straight (7,449 mm) / 482 curved (789 mm); text 220 rings, 1,963 straight (2,252 mm) / 546 curved (884 mm)
 - **Words (OCR):** 44 in 42 lines: +30 V · 22 · Cn 7 · IN 4003 · 17 3 · 2N3791 · R 60 · R 55 · ( 33 · 0.75/5W · 62/ 3n · 68 OOP
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p14 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p14%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p14 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p14 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p14%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p14 (traced).dxf`).
 
 ### Page 15
 
@@ -169,7 +169,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p14
 - **Dots (junctions):** 2
 - **Words (OCR):** 29 in 27 lines: 4A · C 30 · 4200/40 · F 3 · Swi · 2A SB · OUTPUT · CR 9 · zow 85 · MDA 980/4 · R 64 · iook
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p15 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p15%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p15 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p15 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p15%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p15 (traced).dxf`).
 
 ### Page 16
 
@@ -183,7 +183,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p15
 - **Title block:** (99, 17)–(249, 87) mm: WBS WAAD-BeCK BYSTEMS · DRN: · DPs · M 621 · DATE SEPT 73 · CKD R1 · 20 WATT MONITOR AMPLIFIER · SCALE · TOLS_ · XX
 - **Wiring (first pass):** 18 connected wire groups from 78 runs; labelled ends: 239 mm → ON, WBS; 192 mm → DRN:, DATE, CKD; 99 mm → 16; 99 mm → 20 WATT MONITOR AMPLIFIER, ISS,, 621-02-003; 21 mm → 2A SB
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p16 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p16%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p16 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p16 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p16%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p16 (traced).dxf`).
 
 ### Page 17
 
@@ -193,7 +193,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p16
 - **Closed boxes:** 1
 - **Words (OCR):** 92 in 87 lines: R 7 · ISk · HG. DIF · R8 · Ri3 · iio k · 2ok · R 14 · 41k · C13 22 P · ci · R5
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p17 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p17%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p17 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p17 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p17%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p17 (traced).dxf`).
 
 ### Page 18
 
@@ -203,7 +203,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p17
 - **Dots (junctions):** 8
 - **Words (OCR):** 67 in 67 lines: +I8v · 2n49 · C /7 · C22 · Io/2s · 10o/35 · C 28 · 10/25 · R3o · R32 · s.o.T · s.0.T
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p18 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p18%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p18 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p18 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p18%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p18 (traced).dxf`).
 
 ### Page 19
 
@@ -213,7 +213,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p18
 - **Closed boxes:** 22; named: ISSMOD  CKD:; [267GEB; Rn; 11912; 1925; 2306/(L
 - **Words (OCR):** 72 in 71 lines: +30v · 22 · )21 · 2n4923 · R39 · R 53 · 2k2 · R44 · Ik · ISk · '/2 W · 21
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p19 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p19%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p19 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p19 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p19%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p19 (traced).dxf`).
 
 ### Page 20
 
@@ -227,7 +227,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p19
 - **Title block:** (102, 16)–(253, 88) mm: WBS WAAD-BECK BYSTEMs LTD_ · DRN: · DPs 20 WATT MONITOR AMR · DATE Sept 1973 · CKD · Ra · P C B SCHEMATIC · SCALE · TOLS _ · XX
 - **Wiring (first pass):** 7 connected wire groups from 59 runs; labelled ends: 254 mm → WBS, ON; 201 mm → DRN:, DATE, CKD; 146 mm → LTD_, WBS, WAAD-BECK, 20 WATT; 64 mm → ISS,, 173-02-001; 36 mm → NOTES:, UNLEsS, 'aWATT,
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p20 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p20%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p20 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p20 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p20%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p20 (traced).dxf`).
 
 ### Page 21
 
@@ -238,7 +238,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p20
 - **Closed boxes:** 21; named: IR?; K 1; RZ; 52o; SJc7; HRILH
 - **Words (OCR):** 37 in 37 lines: c ? 2 · HRZ] · IR? · 16 · Cci? · 22 · 114 · 213 · R22 · Cc 14 · C3 · DIF
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p21 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p21%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p21 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p21 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p21%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p21 (traced).dxf`).
 
 ### Page 22
 
@@ -251,7 +251,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p21
 - **Words (OCR):** 66 in 59 lines: Hole $ FoR · TrANSFeR OF · TrAck · ONL Y · R53 · rsi · Q 5 · 233 · r44 · fr48 · 247 · R4?
 - **Title block:** (87, 32)–(254, 92) mm: CNGLES · WARD · BECK · Pp5 · DRN · M 6 2 | · 27 july 70 · 20 W · MONITOR · DATE
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p22 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p22%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p22 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p22 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p22%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p22 (traced).dxf`).
 
 ### Page 23
 
@@ -261,7 +261,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p22
 - **Circles and arcs:** 16 circles, 0 arcs; largest r 2.9 @ (164.9, 154.6), r 2.9 @ (164.9, 144.2), r 2.9 @ (165.1, 174.1), r 2.8 @ (165.1, 184.4)
 - **Words (OCR):** 34 in 27 lines: VIEWED FROM · connector · "5 V · REAR · 0F FRAME · Gohz · Pi · P2 · 08 16 · 09 10 · 15 0 · Oio 2 0
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p23 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p23%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p23 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p23 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p23%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p23 (traced).dxf`).
 
 ### Page 24
 
@@ -272,7 +272,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p23
 - **Closed boxes:** 6
 - **Words (OCR):** 26 in 16 lines: P2 · INPuT · 20 Abn · 600f · Note · BALANCED · Pz · MUTE · RELAY · FuTuRE REMOTE GAIN Facility · Cw · 5k Log EXTERNAL
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p24 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p24%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p24 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p24 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p24%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p24 (traced).dxf`).
 
 ### Page 25
 
@@ -283,7 +283,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p24
 - **Closed boxes:** 32; named: 053; 5 1265
 - **Words (OCR):** 35 in 28 lines: 1/5 V · 60 Hz · P2 · pi · 4 3 dBn 31 · OUTPUT · Pi · 10 · 2ow MAX: · F1 · UNBAL ANCED · p2
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p25 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p25%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p25 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p25 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p25%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p25 (traced).dxf`).
 
 ### Page 26
 
@@ -294,7 +294,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p25
 - **Words (OCR):** 63 in 39 lines: NOTES · For GAIN aF · 63 46, · P2 pins · 14 , 7,I5 ARE · Not To · BE · Linked · For · GAiN OF · 43 · 46 , Link
 - **Title block:** (101, 17)–(252, 87) mm: WBS WARD-BECK BysTEMS LTD_ · DRN: · D P 3 · M621 · DATE 21m4?.73 · 20 WATT MONITOR AMP · CKD · SCALE · system · TOLS_ · XX
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p26 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p26%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p26 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p26 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p26%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p26 (traced).dxf`).
 
 ### Page 27
 
@@ -306,7 +306,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p26
 - **Dots (junctions):** 4
 - **Words (OCR):** 28 in 26 lines: R58 · RS7 · R5e · Rs5 · LOC · 034 · c33 · HEAT SINK · Icre · crs · Cr6 · CR7
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p27 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p27%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p27 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p27 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p27%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p27 (traced).dxf`).
 
 ### Page 28
 
@@ -318,7 +318,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p27
 - **Words (OCR):** 46 in 39 lines: NOTES · NT · SHOWN · COVER · SINk AND · FRONT · PANEL · HEAT · SHOWN SEPARATE · FOR · CLARITY · ALL
 - **Title block:** (104, 14)–(255, 86) mm: WBS WARD-BECK · DRN · B7 · M62/ · DATE SEPT 73 20 WATT · MoNItoR · CKD · 0 0. · COMPONENT LAYOUT · SCALE NIS · TOLS · 621- 06- 002
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p28 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p28%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p28 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p28 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p28%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p28 (traced).dxf`).
 
 ### Page 29
 
@@ -329,7 +329,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p28
 - **Dots (junctions):** 5
 - **Words (OCR):** 40 in 36 lines: 115 V AC · 60 HZ · PI · T2 · 6N · YL · P2 · OR · INPUT · WH · 16 · INPUT SHLE LD
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p29 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p29%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p29 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p29 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p29%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p29 (traced).dxf`).
 
 ### Page 30
 
@@ -340,7 +340,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p29
 - **Closed boxes:** 3; named: 14 12
 - **Words (OCR):** 27 in 24 lines: OUTPU · 8 OHM · 4 OHM · 16O · 160 · 150 · 140 · 14 · 13 · 30 · 12 · 128
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p30 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p30%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p30 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p30 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p30%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p30 (traced).dxf`).
 
 ### Page 31
 
@@ -352,7 +352,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p30
 - **Words (OCR):** 35 in 32 lines: OUTPUT · TRANSFORMER CONNECT IONS · 4 OHM · 16 OHM · 150 OHM · 160 · 16 · 16 · 150 · 15 · 15 · 14
 - **Title block:** (54, 16)–(321, 94) mm: DSS MOD  CKD: · USED ON · MATL · WBS WA · DRN_ · BJ · DATESEPT73 · FINISH · CKD: · SCALE · TOLS _
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p31 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p31%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p31 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p31 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p31%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p31 (traced).dxf`).
 
 ### Page 32
 
@@ -366,7 +366,7 @@ Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p31
 - **Title block:** (99, 16)–(250, 87) mm: WBS WARD-BECK BYSTEMB LTD- · DRN: · BJ · M 62it · DATESEPL 73 · OUTPUT TRANSFORME R · Rc · CKD. · SCALE · TOLS _ · 621-02-004
 - **Wiring (first pass):** 68 connected wire groups from 267 runs; labelled ends: 229 mm → ON; 193 mm → DRN:, DATESEPL 73, CKD.; 178 mm → R CONNECT IONS; 92 mm → 160; 91 mm → 160
 
-Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p32 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p32%20(traced).json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p32 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M621 - 621T - 20W Monitor Amp p32 (traced).json](../MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p32%20%28traced%29.json) (the CAD file: `1973 - M621 - 621T - 20W Monitor Amp p32 (traced).dxf`).
 
 ## Full text
 

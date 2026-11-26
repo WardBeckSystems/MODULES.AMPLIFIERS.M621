@@ -22,7 +22,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Words (OCR):** 21 in 21 lines: OUTPU · 8 OHM · 4 OHM · 16 · 160 · 150 · 140 · 12 · 38 · C3 · JO · IOO
 - **Wiring (first pass):** 65 connected wire groups from 193 runs; labelled ends: 149 mm → OUTPU; 65 mm → C3; 64 mm → 4 OHM; 54 mm → 16, 150; 40 mm → 12, C3
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-004 - OUTPUT PRIVARY DIRECT OUTPUT SIGNA GROUND (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-004%20-%20OUTPUT%20PRIVARY%20DIRECT%20OUTPUT%20SIGNA%20GROUND%20(traced).json) (the CAD file: `1970 - M621 - 621-02-004 - OUTPUT PRIVARY DIRECT OUTPUT SIGNA GROUND (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-004 - OUTPUT PRIVARY DIRECT OUTPUT SIGNA GROUND (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-004%20-%20OUTPUT%20PRIVARY%20DIRECT%20OUTPUT%20SIGNA%20GROUND%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-004 - OUTPUT PRIVARY DIRECT OUTPUT SIGNA GROUND (traced).dxf`).
 
 ## Full text
 

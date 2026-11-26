@@ -23,7 +23,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Title block:** (87, 32)–(253, 92) mm: CNGLES · WARD · BECK · DRN · Pp5 · M 6 2 | · 27 July 70 · 20W · DATE
 - **Wiring (first pass):** 138 connected wire groups from 697 runs; labelled ends: 142 mm → 22; 101 mm → TRANSFER; 96 mm → MONITOR AMPLIFIER, LA (OUT, ISS:, 173; 85 mm → DATE, AL; 82 mm → SCNE, 2'1
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-001 - DOTTED FOR MINUS TZEKE (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-001%20-%20DOTTED%20FOR%20MINUS%20TZEKE%20(traced).json) (the CAD file: `1970 - M621 - 621-02-001 - DOTTED FOR MINUS TZEKE (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-001 - DOTTED FOR MINUS TZEKE (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-001%20-%20DOTTED%20FOR%20MINUS%20TZEKE%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-001 - DOTTED FOR MINUS TZEKE (traced).dxf`).
 
 ## Full text
 

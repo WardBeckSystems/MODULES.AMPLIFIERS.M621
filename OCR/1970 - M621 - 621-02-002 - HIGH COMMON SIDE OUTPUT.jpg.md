@@ -21,7 +21,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Words (OCR):** 29 in 25 lines: FROM · connector VIEWED · REAR · FRAME · Gohz · Pi · P2 · 08 16 · 09 LO · Is 0 · 0io · 140
 - **Wiring (first pass):** 35 connected wire groups from 123 runs; labelled ends: 162 mm → Gohz, Pi, 16, Is 0; 89 mm → 09, Qus_, Qi; 72 mm → Gohz, 08; 49 mm → high, SIDE, ouTPuT; 42 mm → Qus_, Qi
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - HIGH COMMON SIDE OUTPUT (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20HIGH%20COMMON%20SIDE%20OUTPUT%20(traced).json) (the CAD file: `1970 - M621 - 621-02-002 - HIGH COMMON SIDE OUTPUT (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - HIGH COMMON SIDE OUTPUT (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20HIGH%20COMMON%20SIDE%20OUTPUT%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-002 - HIGH COMMON SIDE OUTPUT (traced).dxf`).
 
 ## Full text
 

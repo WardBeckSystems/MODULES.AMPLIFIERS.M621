@@ -22,7 +22,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Words (OCR):** 26 in 15 lines: P2 · INPUT · See · 20 abm 6001 · Note · BALANCED · P2 · MUTE RELAY · FUTURE ReMOTE GAIN Facility · Cw · 5k Log EXTERNAL · CONTROL IF. ReQired SEE NOTE
 - **Wiring (first pass):** 31 connected wire groups from 113 runs; labelled ends: 160 mm → GAIN, input; 153 mm → GAIN; 124 mm → Note, P2; 114 mm → Note, 6001; 105 mm → 6001, P2, Note, See
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - GAIN STRAPPING SEE NOTE (traced).json](../PINOUTS/1970%20-%20M621%20-%20621-02-002%20-%20GAIN%20STRAPPING%20SEE%20NOTE%20(traced).json) (the CAD file: `1970 - M621 - 621-02-002 - GAIN STRAPPING SEE NOTE (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - GAIN STRAPPING SEE NOTE (traced).json](../PINOUTS/1970%20-%20M621%20-%20621-02-002%20-%20GAIN%20STRAPPING%20SEE%20NOTE%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-002 - GAIN STRAPPING SEE NOTE (traced).dxf`).
 
 ## Full text
 

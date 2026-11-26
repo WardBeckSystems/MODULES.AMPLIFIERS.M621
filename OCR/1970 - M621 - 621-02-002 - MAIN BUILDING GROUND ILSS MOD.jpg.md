@@ -22,7 +22,7 @@ Wiki page: [M621](../../../../PAGES/M621.md)
 - **Dots (junctions):** 4
 - **Wiring (first pass):** 55 connected wire groups from 442 runs
 
-Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20MAIN%20BUILDING%20GROUND%20ILSS%20MOD%20(traced).json) (the CAD file: `1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (traced).json](../SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20MAIN%20BUILDING%20GROUND%20ILSS%20MOD%20%28traced%29.json) (the CAD file: `1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (traced).dxf`).
 
 ## Full text
 
