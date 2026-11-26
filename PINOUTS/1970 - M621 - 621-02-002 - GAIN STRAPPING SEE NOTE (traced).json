@@ -1,0 +1,130 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/PINOUTS/1970 - M621 - 621-02-002 - GAIN STRAPPING SEE NOTE.jpg",
+ "version": 1,
+ "trace": "_traces/3dfdd12109052520.svg",
+ "sheet": {
+  "number": "621-02-002",
+  "title": "Gain Strapping See Note",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1557, 2000],
+  "mm": [336.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 336.3, 428.3],
+ "outlines": {
+  "line": {"rings": 85, "straight": {"n": 3237, "mm": 5210.1}, "curved": {"n": 413, "mm": 700.4}},
+  "text": {"rings": 156, "straight": {"n": 1601, "mm": 1916.5}, "curved": {"n": 386, "mm": 624.1}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 825, "straight": {"n": 952, "mm": 2891.8}, "curved": {"n": 75, "mm": 119.6}},
+   "text": {"paths": 747, "straight": {"n": 1139, "mm": 1203.2}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 26,
+  "orientation": {"horizontal": {"n": 511, "mm": 2259.6}, "vertical": {"n": 475, "mm": 703.0}, "diagonal": {"n": 1105, "mm": 1132.5}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [2.7, 174.3], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [2.4, 194.5], "r": 2.7, "kind": "circle", "span": 360, "from": ["centre line"]},
+  {"c": [2.4, 165.5], "r": 2.7, "kind": "circle", "span": 286, "from": ["centre line"]},
+  {"c": [2.5, 174.4], "r": 2.7, "kind": "circle", "span": 360, "from": ["centre line"]},
+  {"c": [30.1, 166.3], "r": 2.7, "kind": "arc", "span": 226, "from": ["centre line"], "start": 23},
+  {"c": [2.6, 203.8], "r": 2.6, "kind": "circle", "span": 360, "from": ["centre line", "outline"], "stroke": 0.7},
+  {"c": [30.1, 168.5], "r": 2.5, "kind": "arc", "span": 115, "from": ["centre line"], "start": 197},
+  {"c": [268.8, 293.1], "r": 2.5, "kind": "arc", "span": 164, "from": ["centre line"], "start": 172},
+  {"c": [40.4, 127.2], "r": 2.4, "kind": "arc", "span": 222, "from": ["centre line"], "start": 27},
+  {"c": [2.6, 194.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [2.3, 155.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [40.2, 134.7], "r": 2.3, "kind": "arc", "span": 166, "from": ["centre line"], "start": 173},
+  {"c": [133.7, 145.2], "r": 1.9, "kind": "circle", "span": 284, "from": ["centre line"]},
+  {"c": [326.2, 242.9], "r": 1.9, "kind": "arc", "span": 246, "from": ["centre line"], "start": 320},
+  {"c": [334.7, 266.7], "r": 0.8, "kind": "arc", "span": 147, "from": ["centre line"], "start": 253}
+ ],
+ "boxes": [
+  {"mm": [11.4, 195.0, 22.9, 199.3], "w": 11.4, "h": 4.3, "from": "ring"},
+  {"mm": [11.4, 189.8, 22.9, 194.3], "w": 11.4, "h": 4.5, "from": "ring"},
+  {"mm": [11.4, 185.2, 22.7, 189.1], "w": 11.2, "h": 3.9, "from": "ring"},
+  {"mm": [11.4, 179.4, 22.9, 184.6], "w": 11.4, "h": 5.2, "from": "ring"},
+  {"mm": [11.4, 167.8, 22.9, 178.8], "w": 11.5, "h": 11.0, "from": "ring"},
+  {"mm": [11.4, 159.8, 22.9, 167.1], "w": 11.4, "h": 7.3, "from": "ring"},
+  {"mm": [11.4, 128.7, 22.7, 134.5], "w": 11.2, "h": 5.8, "from": "ring"},
+  {"mm": [24.0, 128.5, 37.6, 134.5], "w": 13.6, "h": 6.0, "from": "ring"},
+  {"mm": [38.2, 128.5, 42.5, 134.3], "w": 4.3, "h": 5.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 26,
+  "lines": [
+   {"mm": [325.4, 296.9, 332.9, 303.3], "text": "P2"},
+   {"mm": [171.6, 287.6, 195.0, 294.5], "text": "INPUT"},
+   {"mm": [279.2, 284.8, 292.5, 290.0], "text": "See"},
+   {"mm": [176.4, 277.4, 235.3, 285.1], "text": "20 abm 6001"},
+   {"mm": [275.5, 276.6, 291.9, 283.5], "text": "Note"},
+   {"mm": [171.9, 266.9, 219.8, 275.0], "text": "BALANCED"},
+   {"mm": [327.7, 261.0, 334.9, 266.3], "text": "P2"},
+   {"mm": [92.8, 192.2, 147.5, 200.4], "text": "MUTE RELAY"},
+   {"mm": [92.6, 183.5, 222.8, 191.2], "text": "FUTURE ReMOTE GAIN Facility"},
+   {"mm": [78.8, 165.4, 92.0, 173.3], "text": "Cw"},
+   {"mm": [104.7, 165.8, 189.8, 174.0], "text": "5k Log EXTERNAL"},
+   {"mm": [103.0, 155.9, 244.0, 164.2], "text": "CONTROL IF. ReQired SEE NOTE"},
+   {"mm": [62.0, 141.4, 84.0, 149.6], "text": "GAIN"},
+   {"mm": [144.0, 141.4, 188.3, 148.4], "text": "SEE Note"},
+   {"mm": [86.6, 127.2, 110.1, 135.1], "text": "input"}
+  ]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 31,
+  "wire_runs": 113,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 159.6, "runs": 12, "ends": 4, "bbox": [0.0, 128.2, 78.8, 134.9], "labels": ["GAIN", "input"]},
+   {"mm": 152.6, "runs": 12, "ends": 3, "bbox": [23.3, 107.1, 59.2, 228.9], "labels": ["GAIN"]},
+   {"mm": 123.9, "runs": 3, "ends": 3, "bbox": [269.4, 207.7, 331.8, 270.1], "labels": ["Note", "P2"]},
+   {"mm": 114.4, "runs": 5, "ends": 4, "bbox": [238.8, 274.2, 335.5, 287.6], "labels": ["Note", "6001"]},
+   {"mm": 104.7, "runs": 5, "ends": 4, "bbox": [238.8, 285.6, 332.9, 293.2], "labels": ["6001", "P2", "Note", "See"]},
+   {"mm": 81.6, "runs": 7, "ends": 4, "bbox": [11.2, 162.1, 70.2, 179.2], "labels": ["Cw"]},
+   {"mm": 80.8, "runs": 3, "ends": 2, "bbox": [0.2, 199.3, 81.8, 199.9], "labels": []},
+   {"mm": 70.4, "runs": 2, "ends": 2, "bbox": [11.2, 194.5, 82.0, 194.7], "labels": ["FUTURE"]},
+   {"mm": 70.2, "runs": 2, "ends": 2, "bbox": [11.2, 184.6, 81.8, 185.0], "labels": ["FUTURE", "Cw"]},
+   {"mm": 69.7, "runs": 2, "ends": 2, "bbox": [11.2, 189.3, 81.4, 189.6], "labels": ["FUTURE"]},
+   {"mm": 61.3, "runs": 6, "ends": 4, "bbox": [11.2, 156.1, 68.0, 159.6], "labels": ["GAIN"]},
+   {"mm": 53.6, "runs": 7, "ends": 2, "bbox": [7.1, 167.3, 62.8, 167.8], "labels": []},
+   {"mm": 51.6, "runs": 2, "ends": 2, "bbox": [283.7, 134.9, 335.3, 135.2], "labels": []},
+   {"mm": 51.4, "runs": 1, "ends": 2, "bbox": [283.9, 154.8, 335.3, 155.0], "labels": []},
+   {"mm": 40.2, "runs": 1, "ends": 2, "bbox": [0.0, 96.5, 40.2, 96.5], "labels": []},
+   {"mm": 39.3, "runs": 1, "ends": 2, "bbox": [296.2, 281.7, 335.5, 282.0], "labels": ["See", "Note"]},
+   {"mm": 39.3, "runs": 1, "ends": 2, "bbox": [296.2, 285.2, 335.5, 285.4], "labels": ["See", "Note"]},
+   {"mm": 39.3, "runs": 1, "ends": 2, "bbox": [296.4, 278.1, 335.7, 278.1], "labels": ["See", "Note"]},
+   {"mm": 39.1, "runs": 1, "ends": 2, "bbox": [296.4, 289.3, 335.5, 289.5], "labels": ["See", "Note", "P2"]},
+   {"mm": 27.4, "runs": 1, "ends": 2, "bbox": [40.4, 97.2, 40.6, 124.6], "labels": []},
+   {"mm": 26.3, "runs": 1, "ends": 2, "bbox": [309.2, 207.0, 335.5, 207.0], "labels": []},
+   {"mm": 22.0, "runs": 1, "ends": 2, "bbox": [0.2, 229.5, 22.2, 229.5], "labels": []},
+   {"mm": 22.0, "runs": 1, "ends": 2, "bbox": [0.4, 105.6, 22.5, 105.6], "labels": []},
+   {"mm": 18.6, "runs": 2, "ends": 2, "bbox": [283.3, 135.8, 283.5, 154.4], "labels": []},
+   {"mm": 10.6, "runs": 1, "ends": 2, "bbox": [0.0, 189.6, 10.6, 189.6], "labels": []},
+   {"mm": 10.4, "runs": 1, "ends": 2, "bbox": [0.2, 179.2, 10.6, 179.2], "labels": []},
+   {"mm": 10.2, "runs": 2, "ends": 2, "bbox": [0.2, 159.6, 10.6, 159.8], "labels": []},
+   {"mm": 9.7, "runs": 1, "ends": 2, "bbox": [0.2, 214.0, 9.9, 214.0], "labels": []},
+   {"mm": 7.3, "runs": 1, "ends": 2, "bbox": [76.2, 167.5, 76.4, 174.9], "labels": ["Cw"]},
+   {"mm": 7.1, "runs": 1, "ends": 2, "bbox": [94.3, 0.6, 94.3, 7.8], "labels": []},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [5.2, 194.7, 10.6, 195.0], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic 621-02-002, size B (assumed) 336 × 432 mm, 1557 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–428 mm up",
+  "- **Outlines:** line 85 rings, 3,237 straight (5,210 mm) / 413 curved (700 mm); text 156 rings, 1,601 straight (1,916 mm) / 386 curved (624 mm)",
+  "- **Centre lines:** 1,572 paths (26 closed); straight 4,095 mm, curved 120 mm; horizontal 2,260 mm, vertical 703 mm, diagonal 1,132 mm",
+  "- **Circles and arcs:** 8 circles, 7 arcs; largest r 3.1 @ (2.7, 174.3), r 2.7 @ (2.4, 194.5), r 2.7 @ (2.4, 165.5), r 2.7 @ (2.5, 174.4)",
+  "- **Closed boxes:** 9",
+  "- **Words (OCR):** 26 in 15 lines: P2 · INPUT · See · 20 abm 6001 · Note · BALANCED · P2 · MUTE RELAY · FUTURE ReMOTE GAIN Facility · Cw · 5k Log EXTERNAL · CONTROL IF. ReQired SEE NOTE",
+  "- **Wiring (first pass):** 31 connected wire groups from 113 runs; labelled ends: 160 mm → GAIN, input; 153 mm → GAIN; 124 mm → Note, P2; 114 mm → Note, 6001; 105 mm → 6001, P2, Note, See"
+ ]
+}

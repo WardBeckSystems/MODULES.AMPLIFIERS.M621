@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ea35622ff72af157-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 267.9, 425.3],
+ "outlines": {
+  "line": {"rings": 78, "straight": {"n": 471, "mm": 962.8}, "curved": {"n": 58, "mm": 91.1}},
+  "text": {"rings": 185, "straight": {"n": 1627, "mm": 1906.7}, "curved": {"n": 482, "mm": 751.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [126.7, 363.1, 213.7, 371.9], "text": "20w MONI TOR AMPLIFIER"},
+   {"mm": [135.4, 351.5, 157.0, 358.4], "text": "MODEL"},
+   {"mm": [159.1, 350.8, 196.9, 358.5], "text": "M621/M621"},
+   {"mm": [167.3, 103.2, 261.0, 112.1], "text": "Des igned Manufactured"},
+   {"mm": [203.4, 96.1, 213.1, 104.2], "text": "By"},
+   {"mm": [167.3, 90.2, 268.6, 98.4], "text": "WARD- BECK  SYSTEMS LIMITED"},
+   {"mm": [166.7, 82.5, 244.4, 91.9], "text": "841 Progress Avenue"},
+   {"mm": [167.3, 76.0, 215.3, 84.6], "text": "Scarborough,"},
+   {"mm": [219.1, 77.3, 249.4, 84.7], "text": "Ontario"},
+   {"mm": [167.3, 63.0, 228.6, 71.7], "text": "(416) 438-6550"},
+   {"mm": [167.8, 56.6, 228.9, 64.8], "text": "Te lex 06-23469"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–268 mm across, 0–425 mm up",
+  "- **Outlines:** line 78 rings, 471 straight (963 mm) / 58 curved (91.1 mm); text 185 rings, 1,627 straight (1,907 mm) / 482 curved (751 mm)",
+  "- **Words (OCR):** 18 in 11 lines: 20w MONI TOR AMPLIFIER · MODEL · M621/M621 · Des igned Manufactured · By · WARD- BECK  SYSTEMS LIMITED · 841 Progress Avenue · Scarborough, · Ontario · (416) 438-6550 · Te lex 06-23469"
+ ]
+}

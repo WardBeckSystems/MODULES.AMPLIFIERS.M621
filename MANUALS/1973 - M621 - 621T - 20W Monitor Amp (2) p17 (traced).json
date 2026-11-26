@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp (2).pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/ed18df09b5bad1e1-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.4, 431.8],
+ "outlines": {"line": {"rings": 559, "straight": {"n": 9784, "mm": 15370.2}, "curved": {"n": 1812, "mm": 2971.8}}},
+ "circles": [
+  {"c": [199.2, 199.9], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [193.2, 190.4], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [328.1, 139.7], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [207.6, 165.5], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [188.7, 41.3], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [296.2, 278.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [299.6, 159.8], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [202.4, 165.4], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [214.9, 130.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [107.3, 180.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [296.1, 249.1], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [236.3, 194.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [181.8, 32.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [161.3, 98.5, 167.3, 108.4], "w": 6.0, "h": 9.9, "from": "ring"}],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [197.8, 229.4], "r": 1.4, "lines": 0}, {"c": [198.6, 190.3], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 559 rings, 9,784 straight (15,370 mm) / 1,812 curved (2,972 mm)",
+  "- **Circles and arcs:** 13 circles, 0 arcs; largest r 2.5 @ (199.2, 199.9), r 2.4 @ (193.2, 190.4), r 2.4 @ (328.1, 139.7), r 2.4 @ (207.6, 165.5)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

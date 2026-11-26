@@ -1,0 +1,85 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/ea35622ff72af157-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.4, 430.7],
+ "outlines": {
+  "line": {"rings": 184, "straight": {"n": 4889, "mm": 8563.2}, "curved": {"n": 626, "mm": 1039.1}},
+  "text": {"rings": 195, "straight": {"n": 1817, "mm": 2194.7}, "curved": {"n": 447, "mm": 732.0}}
+ },
+ "circles": [
+  {"c": [159.3, 110.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [158.7, 263.6], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [159.1, 158.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [148.8, 195.0, 167.8, 372.6], "w": 19.0, "h": 177.7, "from": "ring", "words": ["16"]},
+  {
+   "mm": [22.2, 194.6, 148.3, 343.1],
+   "w": 126.1,
+   "h": 148.5,
+   "from": "ring",
+   "words": ["STRAP", "TOGETHER", "Low", "FOR", "GAiN", "STRAP TOGETHER", "FOR", "LOw GAIN"]
+  },
+  {"mm": [149.8, 52.0, 168.6, 194.7], "w": 18.8, "h": 142.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [153.3, 375.2, 164.1, 382.2], "text": "P 2"},
+   {"mm": [87.4, 351.9, 114.0, 358.9], "text": "INPUT"},
+   {"mm": [150.1, 347.2, 158.7, 353.6], "text": "16"},
+   {"mm": [304.0, 323.9, 336.4, 331.5], "text": "PC B 17 3"},
+   {"mm": [54.6, 278.1, 118.3, 285.9], "text": "STRAP TOGETHER"},
+   {"mm": [54.6, 268.4, 69.7, 275.3], "text": "FOR"},
+   {"mm": [73.4, 267.3, 109.0, 275.4], "text": "Low GAiN"},
+   {"mm": [54.6, 224.5, 117.9, 233.2], "text": "STRAP TOGETHER"},
+   {"mm": [54.0, 214.8, 107.5, 223.0], "text": "FOR LOw GAIN"},
+   {"mm": [46.4, 185.2, 85.3, 192.2], "text": "INPUT AND"},
+   {"mm": [47.3, 177.5, 90.7, 185.1], "text": "REMOTE GAIN"},
+   {"mm": [47.5, 169.5, 73.4, 177.6], "text": "SHIELD"},
+   {"mm": [190.0, 158.9, 244.2, 167.9], "text": "LEVEL R _3"},
+   {"mm": [21.2, 147.9, 58.5, 155.6], "text": "EXTERNAL"},
+   {"mm": [227.3, 149.4, 238.8, 156.4], "text": "5 K"},
+   {"mm": [21.6, 140.3, 38.9, 148.0], "text": "GAIN"},
+   {"mm": [21.6, 132.8, 52.9, 140.5], "text": "CONTROL"},
+   {"mm": [39.9, 114.4, 85.3, 122.1], "text": "5k LOG Cw"},
+   {"mm": [251.5, 82.0, 262.3, 90.2], "text": "16"},
+   {"mm": [321.9, 82.5, 331.6, 89.4], "text": "14"},
+   {"mm": [35.6, 76.0, 54.6, 83.0], "text": "MUTE"},
+   {"mm": [28.1, 68.7, 61.5, 76.1], "text": "CONTROL"},
+   {"mm": [300.7, 31.3, 315.9, 38.3], "text": "CR6"},
+   {"mm": [297.9, 24.2, 317.4, 31.1], "text": "IN9/4"}
+  ]
+ },
+ "dots": [
+  {"c": [158.4, 367.5], "r": 1.5, "lines": 0},
+  {"c": [158.4, 343.2], "r": 1.6, "lines": 0},
+  {"c": [36.6, 86.3], "r": 1.6, "lines": 0},
+  {"c": [52.3, 86.2], "r": 1.5, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–431 mm up",
+  "- **Outlines:** line 184 rings, 4,889 straight (8,563 mm) / 626 curved (1,039 mm); text 195 rings, 1,817 straight (2,195 mm) / 447 curved (732 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (159.3, 110.4), r 1.7 @ (158.7, 263.6), r 1.6 @ (159.1, 158.6)",
+  "- **Closed boxes:** 3; named: 16; STRAP TOGETHER Low FOR GAiN STRAP TOGETH",
+  "- **Dots (junctions):** 4",
+  "- **Words (OCR):** 31 in 24 lines: P 2 · INPUT · 16 · PC B 17 3 · STRAP TOGETHER · FOR · Low GAiN · STRAP TOGETHER · FOR LOw GAIN · INPUT AND · REMOTE GAIN · SHIELD"
+ ]
+}

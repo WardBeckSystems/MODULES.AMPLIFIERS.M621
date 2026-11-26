@@ -1,0 +1,123 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp.pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/ea35622ff72af157-p20.svg",
+ "sheet": {
+  "number": "173-02-001",
+  "title": "Notes Unless Otherwise Stated All Resistors Are",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 1.5, 336.4, 431.8],
+ "outlines": {
+  "line": {"rings": 130, "straight": {"n": 2901, "mm": 5818.4}, "curved": {"n": 397, "mm": 581.5}},
+  "text": {"rings": 435, "straight": {"n": 4284, "mm": 5827.4}, "curved": {"n": 1017, "mm": 1836.0}},
+  "tb": {"rings": 33, "straight": {"n": 318, "mm": 659.3}, "curved": {"n": 27, "mm": 42.0}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 920, "straight": {"n": 983, "mm": 2753.3}, "curved": {"n": 4, "mm": 3.2}},
+   "text": {"paths": 2298, "straight": {"n": 3430, "mm": 3829.1}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 382, "straight": {"n": 417, "mm": 820.5}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 54,
+  "orientation": {"horizontal": {"n": 1187, "mm": 3046.0}, "vertical": {"n": 1076, "mm": 1509.4}, "diagonal": {"n": 2567, "mm": 2847.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [{"c": [335.3, 429.7], "r": 0.8, "kind": "arc", "span": 246, "from": ["centre line"], "start": 27}],
+ "boxes": [
+  {"mm": [108.6, 60.3, 331.1, 85.2], "w": 222.5, "h": 24.9, "from": "ring", "words": ["WBS", "WAAD-BECK", "BYSTEMs", "LTD_"]},
+  {"mm": [29.1, 48.0, 107.3, 84.4], "w": 78.2, "h": 36.4, "from": "ring", "words": ["MATL"]},
+  {"mm": [174.4, 25.3, 331.2, 60.1], "w": 156.7, "h": 34.8, "from": "ring", "words": ["20 WATT", "MONITOR", "AMR", "P C B", "SCHEMATIC"]},
+  {"mm": [108.8, 51.7, 172.7, 59.4], "w": 64.0, "h": 7.7, "from": "ring", "words": ["DPs", "DRN:"], "in_title_block": true},
+  {"mm": [108.8, 42.7, 172.8, 51.0], "w": 64.0, "h": 8.2, "from": "ring", "words": ["DATE", "Sept", "1973"], "in_title_block": true},
+  {"mm": [29.4, 8.6, 107.7, 46.9], "w": 78.3, "h": 38.2, "from": "ring", "words": ["FINISH"]},
+  {"mm": [108.8, 33.7, 172.7, 41.9], "w": 63.9, "h": 8.2, "from": "ring", "words": ["Ra", "CKD"], "in_title_block": true},
+  {"mm": [108.8, 25.0, 172.7, 33.2], "w": 63.9, "h": 8.2, "from": "ring", "words": ["SCALE"], "in_title_block": true},
+  {"mm": [316.5, 10.4, 331.2, 25.1], "w": 14.7, "h": 14.7, "from": "ring"},
+  {"mm": [298.6, 10.1, 315.2, 25.0], "w": 16.6, "h": 14.9, "from": "ring", "words": ["ISS,"]},
+  {"mm": [195.3, 9.5, 297.6, 24.9], "w": 102.2, "h": 15.4, "from": "ring", "words": ["173-02-001"]},
+  {"mm": [108.8, 8.9, 173.0, 24.2], "w": 64.2, "h": 15.3, "from": "ring", "words": ["XX", "TOLS _"]}
+ ],
+ "text": {
+  "words": 58,
+  "lines": [
+   {"mm": [34.1, 362.9, 67.8, 372.5], "text": "NOTES:"},
+   {"mm": [55.1, 348.7, 150.3, 357.3], "text": "UNLEsS OTHERwise"},
+   {"mm": [158.3, 348.7, 193.2, 357.3], "text": "STATED,"},
+   {"mm": [196.5, 349.3, 212.0, 357.5], "text": "ALL"},
+   {"mm": [217.4, 348.9, 287.6, 357.5], "text": "resistors ARe"},
+   {"mm": [54.2, 337.9, 87.9, 348.7], "text": "'aWATT,"},
+   {"mm": [91.5, 338.1, 193.7, 348.9], "text": "15 %, VALUES Ohms"},
+   {"mm": [157.2, 340.0, 166.5, 347.0], "text": "in"},
+   {"mm": [204.0, 339.0, 291.0, 347.6], "text": "CAPAC itor VALUES"},
+   {"mm": [68.0, 329.2, 134.5, 337.4], "text": "Micro FARADS"},
+   {"mm": [82.0, 310.5, 134.9, 317.9], "text": "COMPONENT"},
+   {"mm": [141.4, 308.5, 305.5, 318.1], "text": "DesignATions C 33 : R65 Q6"},
+   {"mm": [54.6, 309.2, 77.9, 317.3], "text": "LAST"},
+   {"mm": [217.0, 300.5, 258.6, 307.5], "text": "CR4 : 2 3"},
+   {"mm": [54.8, 278.5, 139.7, 288.6], "text": "RSI AND R5z ARE"},
+   {"mm": [144.4, 279.4, 231.4, 288.0], "text": "NoMiNAL 6201"},
+   {"mm": [55.1, 268.8, 110.8, 277.4], "text": "SE LECTED"},
+   {"mm": [115.1, 268.6, 188.7, 278.4], "text": "FOR CoRRECT"},
+   {"mm": [194.7, 269.4, 252.2, 278.3], "text": "OVERLOAD"},
+   {"mm": [57.2, 259.1, 152.2, 267.7], "text": "CHARACTERistics"},
+   {"mm": [2.2, 77.7, 12.5, 84.2], "text": "ON"},
+   {"mm": [29.8, 77.7, 51.4, 84.7], "text": "MATL"},
+   {"mm": [119.6, 65.8, 328.2, 79.3], "text": "WBS WAAD-BECK BYSTEMs LTD_"},
+   {"mm": [109.0, 51.8, 126.3, 58.8], "text": "DRN:"},
+   {"mm": [130.2, 44.9, 300.5, 59.5], "text": "DPs 20 WATT MONITOR AMR"},
+   {"mm": [109.0, 42.7, 170.1, 50.9], "text": "DATE Sept 1973"},
+   {"mm": [30.2, 40.6, 52.5, 47.1], "text": "FINISH"},
+   {"mm": [109.7, 34.1, 125.4, 41.1], "text": "CKD"},
+   {"mm": [129.1, 34.5, 142.1, 41.5], "text": "Ra"},
+   {"mm": [193.9, 28.9, 295.8, 42.6], "text": "P C B SCHEMATIC"},
+   {"mm": [109.7, 24.8, 131.9, 33.0], "text": "SCALE"},
+   {"mm": [109.7, 13.0, 129.1, 20.6], "text": "TOLS _"},
+   {"mm": [134.1, 18.1, 142.7, 23.4], "text": "XX"},
+   {"mm": [201.9, 9.7, 314.8, 23.1], "text": "173-02-001 ISS,"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [102.3, 16.2, 252.9, 88.0],
+  "from": "title-block words (training set)",
+  "text": ["WBS WAAD-BECK BYSTEMs LTD_", "DRN:", "DPs 20 WATT MONITOR AMR", "DATE Sept 1973", "CKD", "Ra", "P C B SCHEMATIC", "SCALE", "TOLS _", "XX"]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 7,
+  "wire_runs": 59,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 253.9, "runs": 12, "ends": 6, "bbox": [0.0, 47.9, 108.0, 85.1], "labels": ["WBS", "ON"]},
+   {"mm": 201.4, "runs": 8, "ends": 5, "bbox": [0.0, 8.2, 107.7, 47.7], "labels": ["DRN:", "DATE", "CKD"]},
+   {"mm": 146.2, "runs": 1, "ends": 2, "bbox": [185.2, 60.5, 331.4, 60.9], "labels": ["LTD_", "WBS", "WAAD-BECK", "20 WATT", "P C B"]},
+   {"mm": 64.4, "runs": 5, "ends": 3, "bbox": [297.7, 9.7, 331.6, 25.9], "labels": ["ISS,", "173-02-001"]},
+   {"mm": 43.8, "runs": 1, "ends": 2, "bbox": [47.5, 65.6, 91.3, 65.6], "labels": []},
+   {"mm": 42.3, "runs": 2, "ends": 2, "bbox": [47.5, 29.1, 89.8, 29.6], "labels": []},
+   {"mm": 36.3, "runs": 1, "ends": 2, "bbox": [33.2, 363.6, 69.5, 363.8], "labels": ["NOTES:", "UNLEsS", "'aWATT,"]}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic 173-02-001, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 2–432 mm up",
+  "- **Outlines:** line 130 rings, 2,901 straight (5,818 mm) / 397 curved (582 mm); text 435 rings, 4,284 straight (5,827 mm) / 1,017 curved (1,836 mm); tb 33 rings, 318 straight (659 mm) / 27 curved (42.0 mm)",
+  "- **Centre lines:** 3,600 paths (54 closed); straight 7,403 mm, curved 3.2 mm; horizontal 3,046 mm, vertical 1,509 mm, diagonal 2,848 mm",
+  "- **Circles and arcs:** 0 circles, 1 arcs",
+  "- **Closed boxes:** 12 (4 in the title block); named: WBS WAAD-BECK BYSTEMs LTD_; MATL; 20 WATT MONITOR AMR P C B SCHEMATIC; FINISH; ISS,; 173-02-001; XX TOLS _",
+  "- **Words (OCR):** 58 in 34 lines: NOTES: · UNLEsS OTHERwise · STATED, · ALL · resistors ARe · 'aWATT, · 15 %, VALUES Ohms · in · CAPAC itor VALUES · Micro FARADS · COMPONENT · DesignATions C 33 : R65 Q6",
+  "- **Title block:** (102, 16)–(253, 88) mm: WBS WAAD-BECK BYSTEMs LTD_ · DRN: · DPs 20 WATT MONITOR AMR · DATE Sept 1973 · CKD · Ra · P C B SCHEMATIC · SCALE · TOLS _ · XX",
+  "- **Wiring (first pass):** 7 connected wire groups from 59 runs; labelled ends: 254 mm → WBS, ON; 201 mm → DRN:, DATE, CKD; 146 mm → LTD_, WBS, WAAD-BECK, 20 WATT; 64 mm → ISS,, 173-02-001; 36 mm → NOTES:, UNLEsS, 'aWATT,"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/ed18df09b5bad1e1-p2.svg",
+ "sheet": {
+  "number": "B173-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 334.2, 424.0],
+ "outlines": {
+  "line": {"rings": 192, "straight": {"n": 1657, "mm": 2106.1}, "curved": {"n": 530, "mm": 569.0}},
+  "text": {"rings": 438, "straight": {"n": 4238, "mm": 4028.9}, "curved": {"n": 1468, "mm": 1673.8}}
+ },
+ "circles": [{"c": [147.0, 370.8], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 71,
+  "lines": [
+   {"mm": [68.0, 405.2, 79.2, 411.2], "text": "Mod"},
+   {"mm": [92.2, 405.2, 133.0, 411.2], "text": "M621/M621T"},
+   {"mm": [68.9, 398.1, 152.4, 404.1], "text": "20W Monitor ....mplifier"},
+   {"mm": [72.8, 382.6, 141.4, 388.6], "text": "NSTRUCTION MANU....L"},
+   {"mm": [141.2, 352.6, 217.0, 358.6], "text": "cirauit Desari ption"},
+   {"mm": [140.8, 337.2, 216.8, 343.2], "text": "Teahnical Data M621"},
+   {"mm": [140.8, 322.1, 221.3, 328.1], "text": "Teahnica Data M621T"},
+   {"mm": [140.8, 307.0, 163.4, 313.0], "text": "Amplif"},
+   {"mm": [181.1, 307.0, 225.0, 313.0], "text": "Ad justments"},
+   {"mm": [141.2, 292.1, 205.1, 298.1], "text": "DC Voltage Chart"},
+   {"mm": [141.2, 276.6, 180.9, 282.6], "text": "Parts list"},
+   {"mm": [141.2, 261.7, 172.5, 267.7], "text": "Draw ings"},
+   {"mm": [140.8, 246.6, 296.4, 252.6], "text": "Moni tor J\\.mplifie Schematic B6 21 02-003"},
+   {"mm": [140.8, 231.0, 311.8, 237.0], "text": "Monitor Amplifier PCB Schemat ic B173 -02-001"},
+   {"mm": [141.2, 216.1, 233.0, 222.1], "text": "PCB Layout B173-06-001"},
+   {"mm": [97.4, 201.0, 108.6, 207.0], "text": "7.4"},
+   {"mm": [140.8, 201.0, 315.9, 207.0], "text": "Mon tor Ampl ifie System Wiring, B621 02- 02"},
+   {"mm": [140.8, 185.9, 245.0, 191.9], "text": "Mod ule La out. B62 -06-002"},
+   {"mm": [140.8, 170.6, 156.5, 176.6], "text": "M621"},
+   {"mm": [169.7, 170.6, 235.8, 176.6], "text": "OUtput Tra nsforme"},
+   {"mm": [181.6, 163.0, 276.4, 169.0], "text": "ccreece tcne B621 -02-004"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [102.7, 308.7], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B173-06-001, size B 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–424 mm up",
+  "- **Outlines:** line 192 rings, 1,657 straight (2,106 mm) / 530 curved (569 mm); text 438 rings, 4,238 straight (4,029 mm) / 1,468 curved (1,674 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (147.0, 370.8)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 71 in 25 lines: Mod · M621/M621T · 20W Monitor ....mplifier · NSTRUCTION MANU....L · cirauit Desari ption · Teahnical Data M621 · Teahnica Data M621T · Amplif · Ad justments · DC Voltage Chart · Parts list · Draw ings"
+ ]
+}

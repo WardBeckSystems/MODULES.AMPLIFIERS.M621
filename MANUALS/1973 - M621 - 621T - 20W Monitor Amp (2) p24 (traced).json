@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp (2).pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/ed18df09b5bad1e1-p24.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 336.4, 428.6],
+ "outlines": {
+  "line": {"rings": 92, "straight": {"n": 3172, "mm": 5029.4}, "curved": {"n": 469, "mm": 815.1}},
+  "text": {"rings": 148, "straight": {"n": 1503, "mm": 1951.5}, "curved": {"n": 381, "mm": 619.3}}
+ },
+ "circles": [
+  {"c": [2.6, 174.2], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [2.6, 203.8], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [2.5, 194.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [2.7, 134.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [11.4, 195.0, 22.9, 199.3], "w": 11.4, "h": 4.3, "from": "ring"},
+  {"mm": [11.4, 167.8, 22.7, 178.8], "w": 11.3, "h": 11.1, "from": "ring"},
+  {"mm": [11.4, 159.8, 22.7, 167.1], "w": 11.2, "h": 7.3, "from": "ring"},
+  {"mm": [11.4, 128.7, 22.7, 134.3], "w": 11.2, "h": 5.6, "from": "ring"},
+  {"mm": [24.0, 128.5, 37.6, 134.3], "w": 13.6, "h": 5.8, "from": "ring"},
+  {"mm": [38.2, 128.5, 42.5, 134.3], "w": 4.3, "h": 5.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 36,
+  "lines": [
+   {"mm": [326.4, 296.6, 333.3, 302.6], "text": "P2"},
+   {"mm": [189.8, 277.6, 206.2, 282.9], "text": "cl IO\"')"},
+   {"mm": [172.7, 273.8, 193.7, 279.0], "text": "IN PUT"},
+   {"mm": [173.2, 267.5, 193.9, 273.3], "text": "e,A LA"},
+   {"mm": [207.5, 267.5, 218.3, 273.3], "text": "E:D"},
+   {"mm": [328.6, 260.6, 334.0, 265.1], "text": "P2"},
+   {"mm": [324.3, 239.6, 334.9, 246.1], "text": "cw"},
+   {"mm": [93.9, 192.6, 107.7, 198.6], "text": "MUT"},
+   {"mm": [120.9, 192.6, 146.2, 198.6], "text": "RE.LA'\""},
+   {"mm": [94.1, 183.7, 121.8, 189.0], "text": "FU TURE."},
+   {"mm": [133.2, 183.5, 156.7, 189.0], "text": "E:MOTe."},
+   {"mm": [190.0, 183.7, 212.0, 189.0], "text": "FAC-\\LI"},
+   {"mm": [105.8, 166.2, 115.5, 172.0], "text": "SK"},
+   {"mm": [129.5, 166.2, 138.6, 172.0], "text": "OG"},
+   {"mm": [181.1, 165.8, 189.3, 171.8], "text": "t:>-L"},
+   {"mm": [115.3, 156.5, 134.3, 162.5], "text": "NTRo"},
+   {"mm": [150.7, 156.5, 195.2, 162.0], "text": "IF· Re lZE..D."},
+   {"mm": [203.6, 156.1, 218.7, 162.6], "text": "5E.E."},
+   {"mm": [234.5, 156.1, 244.0, 161.9], "text": "TE."},
+   {"mm": [63.0, 141.8, 76.9, 147.6], "text": "GAI"},
+   {"mm": [92.4, 141.6, 130.4, 147.4], "text": "51 R.APP IN"},
+   {"mm": [145.1, 141.8, 161.3, 147.4], "text": ":>E.E:"},
+   {"mm": [173.2, 141.8, 186.8, 147.4], "text": "OTE:"},
+   {"mm": [88.3, 127.4, 109.5, 132.9], "text": "INPUT"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–429 mm up",
+  "- **Outlines:** line 92 rings, 3,172 straight (5,029 mm) / 469 curved (815 mm); text 148 rings, 1,503 straight (1,952 mm) / 381 curved (619 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.7 @ (2.6, 174.2), r 2.7 @ (2.6, 203.8), r 2.3 @ (2.5, 194.3), r 2.1 @ (2.7, 134.7)",
+  "- **Closed boxes:** 6",
+  "- **Words (OCR):** 36 in 28 lines: P2 · cl IO\"') · IN PUT · e,A LA · E:D · P2 · cw · MUT · RE.LA'\" · FU TURE. · E:MOTe. · FAC-\\LI"
+ ]
+}

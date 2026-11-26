@@ -1,0 +1,139 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/SCHEMATICS/1970 - M621 - 621-02-002 - WATT MONITOR AMP.jpg",
+ "version": 1,
+ "trace": "_traces/37efac69cbb5a70c.svg",
+ "sheet": {
+  "number": "621-02-002",
+  "title": "Watt Monitor Amp System Wiring",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1557, 2000],
+  "mm": [336.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 336.3, 431.8],
+ "outlines": {
+  "line": {"rings": 152, "straight": {"n": 3987, "mm": 5732.7}, "curved": {"n": 579, "mm": 835.8}},
+  "text": {"rings": 366, "straight": {"n": 3627, "mm": 4387.8}, "curved": {"n": 924, "mm": 1534.5}},
+  "tb": {"rings": 24, "straight": {"n": 347, "mm": 548.3}, "curved": {"n": 69, "mm": 121.4}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 1304, "straight": {"n": 1379, "mm": 2813.1}, "curved": {"n": 24, "mm": 26.4}},
+   "text": {"paths": 2137, "straight": {"n": 3055, "mm": 3174.6}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 325, "straight": {"n": 371, "mm": 702.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 58,
+  "orientation": {"horizontal": {"n": 1179, "mm": 2806.8}, "vertical": {"n": 1126, "mm": 1405.9}, "diagonal": {"n": 2500, "mm": 2477.8}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [144.5, 12.7], "r": 2.0, "kind": "arc", "span": 149, "from": ["centre line"], "start": 248},
+  {"c": [148.9, 351.1], "r": 1.9, "kind": "arc", "span": 154, "from": ["centre line"], "start": 12},
+  {"c": [23.5, 292.7], "r": 1.7, "kind": "arc", "span": 159, "from": ["centre line"], "start": 163},
+  {"c": [147.9, 351.7], "r": 1.6, "kind": "arc", "span": 122, "from": ["centre line"], "start": 179},
+  {"c": [320.0, 10.4], "r": 1.3, "kind": "arc", "span": 137, "from": ["centre line"], "start": 211},
+  {"c": [334.4, 12.8], "r": 1.1, "kind": "arc", "span": 159, "from": ["centre line"], "start": 236},
+  {"c": [144.7, 11.7], "r": 0.7, "kind": "arc", "span": 222, "from": ["centre line"], "start": 113}
+ ],
+ "boxes": [
+  {"mm": [107.7, 60.2, 329.7, 84.9], "w": 221.9, "h": 24.7, "from": "ring", "words": ["WBS", "BYSTEMS", "LTD_", "WARD-BECK"]},
+  {"mm": [28.3, 48.1, 106.4, 84.2], "w": 78.2, "h": 36.1, "from": "ring", "words": ["MATL ."]},
+  {
+   "mm": [173.5, 25.1, 330.1, 60.0],
+   "w": 156.6,
+   "h": 34.9,
+   "from": "ring",
+   "words": ["M621", "AMP", "20 WATT", "MONITOR", "system", "WIRING"]
+  },
+  {"mm": [108.0, 51.6, 171.9, 59.4], "w": 63.9, "h": 7.8, "from": "ring", "words": ["D P $", "DRN:"], "in_title_block": true},
+  {"mm": [28.3, 8.5, 106.6, 47.1], "w": 78.3, "h": 38.6, "from": "ring", "words": ["FiniSh"]},
+  {"mm": [108.0, 24.9, 171.9, 33.2], "w": 63.9, "h": 8.4, "from": "ring", "words": ["SCALE"], "in_title_block": true},
+  {"mm": [194.5, 9.1, 296.4, 24.8], "w": 101.9, "h": 15.7, "from": "ring", "words": ["62 1-02-00 2"]},
+  {"mm": [108.0, 8.9, 172.1, 24.2], "w": 64.1, "h": 15.3, "from": "ring", "words": ["XX", "TOLS _"]}
+ ],
+ "text": {
+  "words": 60,
+  "lines": [
+   {"mm": [79.7, 371.3, 114.2, 380.0], "text": "NOIES"},
+   {"mm": [163.2, 355.4, 195.6, 365.0], "text": "63 46,"},
+   {"mm": [199.1, 357.3, 234.7, 365.0], "text": "P2 pins"},
+   {"mm": [240.1, 356.9, 302.3, 365.0], "text": "6, 14 , 7, 15 ARE"},
+   {"mm": [99.3, 357.7, 158.0, 364.7], "text": "For GAIN OF"},
+   {"mm": [99.7, 348.0, 140.1, 355.0], "text": "Not to"},
+   {"mm": [164.3, 347.2, 200.1, 355.6], "text": "Linked"},
+   {"mm": [99.5, 337.2, 158.0, 345.9], "text": "For GAIN Of"},
+   {"mm": [164.1, 337.2, 220.2, 345.4], "text": "43 48, Link"},
+   {"mm": [225.6, 337.2, 285.0, 345.4], "text": "P2 PIN 6To 14"},
+   {"mm": [201.9, 328.6, 218.7, 335.1], "text": "AnD"},
+   {"mm": [225.0, 327.7, 252.4, 335.9], "text": "P2 Pin"},
+   {"mm": [256.9, 328.2, 287.1, 335.8], "text": "7To 15"},
+   {"mm": [99.3, 312.6, 187.6, 320.8], "text": "INTERSTAGE GAIN"},
+   {"mm": [193.7, 312.6, 254.5, 320.8], "text": "CONTroL 1S"},
+   {"mm": [260.6, 313.1, 308.5, 321.2], "text": "OPTioNAL,"},
+   {"mm": [99.3, 304.0, 107.5, 310.9], "text": "IF"},
+   {"mm": [112.1, 302.7, 184.2, 311.3], "text": "Not REQuIREd"},
+   {"mm": [194.7, 303.3, 286.5, 311.0], "text": "LINk P 2 PIN 13 To 5"},
+   {"mm": [1.5, 288.9, 17.3, 295.8], "text": "JBm"},
+   {"mm": [1.5, 77.7, 11.7, 84.2], "text": "ON"},
+   {"mm": [29.1, 77.7, 51.8, 84.7], "text": "MATL ."},
+   {"mm": [119.0, 65.8, 244.8, 79.3], "text": "WBS WARD-BECK"},
+   {"mm": [248.7, 68.0, 327.1, 77.6], "text": "BYSTEMS LTD_"},
+   {"mm": [108.0, 51.8, 125.2, 58.8], "text": "DRN:"},
+   {"mm": [129.5, 52.0, 152.0, 60.4], "text": "D P $"},
+   {"mm": [221.9, 49.4, 253.3, 59.0], "text": "M621"},
+   {"mm": [107.7, 36.9, 278.5, 52.2], "text": "DATE 21 Ma. 73 20 WATT MONITOR"},
+   {"mm": [29.1, 40.6, 51.2, 47.1], "text": "FiniSh"},
+   {"mm": [289.7, 37.8, 314.4, 47.4], "text": "AMP"},
+   {"mm": [108.4, 34.1, 124.6, 41.1], "text": "CKD_"},
+   {"mm": [108.4, 25.9, 130.0, 32.9], "text": "SCALE"},
+   {"mm": [202.3, 25.5, 292.5, 35.1], "text": "system WIRING"},
+   {"mm": [109.0, 13.0, 128.0, 20.6], "text": "TOLS _"},
+   {"mm": [133.0, 18.1, 141.6, 23.4], "text": "XX"},
+   {"mm": [199.9, 11.7, 313.5, 22.5], "text": "62 1-02-00 2 ISS."}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [100.9, 17.3, 251.4, 88.0],
+  "from": "title-block words (training set)",
+  "text": ["WBS WARD-BECK", "DRN:", "D P $", "M621", "DATE 21 Ma. 73 20 WATT MONITOR", "CKD_", "SCALE", "system WIRING", "XX"]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 13,
+  "wire_runs": 84,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 249.4, "runs": 11, "ends": 6, "bbox": [0.2, 48.1, 106.4, 85.1], "labels": ["WBS", "ON"]},
+   {"mm": 198.0, "runs": 10, "ends": 5, "bbox": [0.0, 8.4, 106.9, 47.7], "labels": ["DRN:", "DATE 21 Ma. 73", "CKD_"]},
+   {"mm": 157.4, "runs": 1, "ends": 2, "bbox": [172.7, 60.0, 330.1, 60.7], "labels": ["LTD_", "WBS", "WARD-BECK", "DATE 21 Ma. 73", "20 WATT"]},
+   {"mm": 91.1, "runs": 6, "ends": 3, "bbox": [247.9, 9.5, 324.9, 25.7], "labels": ["MONITOR", "system", "WIRING", "62 1-02-00 2", "ISS."]},
+   {"mm": 79.5, "runs": 3, "ends": 2, "bbox": [250.7, 85.3, 330.1, 85.9], "labels": ["LTD_", "WARD-BECK", "BYSTEMS"]},
+   {"mm": 39.3, "runs": 2, "ends": 2, "bbox": [47.9, 24.8, 87.7, 25.0], "labels": []},
+   {"mm": 39.3, "runs": 2, "ends": 2, "bbox": [78.8, 372.2, 118.5, 372.4], "labels": ["NOIES", "For", "GAIN"]},
+   {"mm": 38.4, "runs": 1, "ends": 2, "bbox": [49.0, 65.6, 87.4, 65.8], "labels": []},
+   {"mm": 19.9, "runs": 1, "ends": 2, "bbox": [148.8, 15.8, 168.6, 16.0], "labels": ["XX"]},
+   {"mm": 15.5, "runs": 1, "ends": 2, "bbox": [107.1, 8.6, 107.1, 24.2], "labels": ["CKD_", "SCALE", "TOLS _"]},
+   {"mm": 15.5, "runs": 1, "ends": 2, "bbox": [193.7, 8.9, 193.9, 24.4], "labels": ["20 WATT", "system", "62 1-02-00 2"]},
+   {"mm": 9.3, "runs": 2, "ends": 2, "bbox": [172.5, 8.9, 172.9, 18.6], "labels": []},
+   {"mm": 8.4, "runs": 2, "ends": 2, "bbox": [314.6, 11.7, 314.8, 20.5], "labels": ["ISS."]}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic 621-02-002, size B (assumed) 336 × 432 mm, 1557 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 152 rings, 3,987 straight (5,733 mm) / 579 curved (836 mm); text 366 rings, 3,627 straight (4,388 mm) / 924 curved (1,534 mm); tb 24 rings, 347 straight (548 mm) / 69 curved (121 mm)",
+  "- **Centre lines:** 3,766 paths (58 closed); straight 6,690 mm, curved 26.4 mm; horizontal 2,807 mm, vertical 1,406 mm, diagonal 2,478 mm",
+  "- **Circles and arcs:** 0 circles, 7 arcs",
+  "- **Closed boxes:** 8 (2 in the title block); named: WBS BYSTEMS LTD_ WARD-BECK; MATL .; M621 AMP 20 WATT MONITOR system WIRING; FiniSh; 62 1-02-00 2; XX TOLS _",
+  "- **Words (OCR):** 60 in 36 lines: NOIES · 63 46, · P2 pins · 6, 14 , 7, 15 ARE · For GAIN OF · Not to · Linked · For GAIN Of · 43 48, Link · P2 PIN 6To 14 · AnD · P2 Pin",
+  "- **Title block:** (101, 17)–(251, 88) mm: WBS WARD-BECK · DRN: · D P $ · M621 · DATE 21 Ma. 73 20 WATT MONITOR · CKD_ · SCALE · system WIRING · XX",
+  "- **Wiring (first pass):** 13 connected wire groups from 84 runs; labelled ends: 249 mm → WBS, ON; 198 mm → DRN:, DATE 21 Ma. 73, CKD_; 157 mm → LTD_, WBS, WARD-BECK, DATE 21 Ma. 73; 91 mm → MONITOR, system, WIRING, 62 1-02-00 2; 80 mm → LTD_, WARD-BECK, BYSTEMS"
+ ]
+}

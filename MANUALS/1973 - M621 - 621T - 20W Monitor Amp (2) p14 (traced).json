@@ -1,0 +1,45 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp (2).pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/ed18df09b5bad1e1-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 336.4, 427.1],
+ "outlines": {"line": {"rings": 289, "straight": {"n": 5987, "mm": 9701.1}, "curved": {"n": 1028, "mm": 1672.5}}},
+ "circles": [
+  {"c": [84.5, 256.1], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [138.5, 151.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [184.5, 163.6], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–427 mm up",
+  "- **Outlines:** line 289 rings, 5,987 straight (9,701 mm) / 1,028 curved (1,672 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.6 @ (84.5, 256.1), r 2.3 @ (138.5, 151.3)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ed18df09b5bad1e1-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 304.9, 425.3],
+ "outlines": {
+  "line": {"rings": 131, "straight": {"n": 948, "mm": 1515.0}, "curved": {"n": 217, "mm": 328.0}},
+  "text": {"rings": 149, "straight": {"n": 1211, "mm": 1384.9}, "curved": {"n": 331, "mm": 522.0}},
+  "tb": {"rings": 1, "straight": {"n": 24, "mm": 27.4}, "curved": {"n": 3, "mm": 4.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [128.2, 363.8, 214.0, 369.8], "text": "20W MONIT OR AMPL FI ER"},
+   {"mm": [136.0, 350.6, 196.5, 356.6], "text": "MODEL 1'1621 /11621"},
+   {"mm": [168.4, 104.1, 199.3, 110.1], "text": "Des 19ned"},
+   {"mm": [212.0, 104.1, 239.0, 110.1], "text": "Man ufac"},
+   {"mm": [252.4, 104.1, 259.9, 110.1], "text": "ed"},
+   {"mm": [204.5, 96.9, 212.7, 103.2], "text": "By"},
+   {"mm": [168.2, 90.7, 270.1, 96.7], "text": "WARO- BECK SYSTEMS L1M1TEO"},
+   {"mm": [168.0, 83.8, 243.8, 90.5], "text": "84 Pr ogre ss Ave nue"},
+   {"mm": [168.8, 77.3, 248.3, 83.3], "text": "Scarborough, On ta io"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [168.8, 64.1, 178.1, 70.1], "text": "(41"},
+   {"mm": [200.1, 64.1, 227.1, 70.1], "text": "38 550"},
+   {"mm": [168.6, 57.4, 226.9, 63.4], "text": "Telex 06-23 469"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [181.9, 82.0, 244.2, 105.3],
+  "from": "title-block words (training set)",
+  "text": ["By", "WARO- BECK SYSTEMS L1M1TEO", "84 Pr ogre ss Ave nue"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–305 mm across, 0–425 mm up",
+  "- **Outlines:** line 131 rings, 948 straight (1,515 mm) / 217 curved (328 mm); text 149 rings, 1,211 straight (1,385 mm) / 331 curved (522 mm); tb 1 rings, 24 straight (27.4 mm) / 3 curved (4.3 mm)",
+  "- **Words (OCR):** 39 in 16 lines: 20W MONIT OR AMPL FI ER · MODEL 1'1621 /11621 · Des 19ned · Man ufac · ed · By · WARO- BECK SYSTEMS L1M1TEO · 84 Pr ogre ss Ave nue · Scarborough, On ta io · ps · (41 · 38 550",
+  "- **Title block:** (182, 82)–(244, 105) mm: By · WARO- BECK SYSTEMS L1M1TEO · 84 Pr ogre ss Ave nue"
+ ]
+}

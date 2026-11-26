@@ -1,0 +1,86 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp (2).pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/ed18df09b5bad1e1-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.4, 430.7],
+ "outlines": {
+  "line": {"rings": 238, "straight": {"n": 5420, "mm": 9181.3}, "curved": {"n": 767, "mm": 1264.8}},
+  "text": {"rings": 141, "straight": {"n": 1289, "mm": 1578.4}, "curved": {"n": 305, "mm": 504.5}}
+ },
+ "circles": [
+  {"c": [57.9, 118.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [159.3, 110.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [158.7, 263.6], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [159.1, 158.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [148.8, 195.0, 167.8, 372.6], "w": 19.0, "h": 177.7, "from": "ring", "words": ["o-I", "12"]},
+  {
+   "mm": [22.2, 194.6, 148.3, 343.1],
+   "w": 126.1,
+   "h": 148.5,
+   "from": "ring",
+   "words": ["TRA", "TOGET", "HER", "OR", "LOW", "GA", "TR", "TOGETH", "ER", "FO", "OW", "GA"]
+  },
+  {"mm": [149.8, 52.0, 168.6, 194.7], "w": 18.8, "h": 142.7, "from": "ring", "words": ["10"]}
+ ],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [154.6, 374.8, 163.4, 380.8], "text": "P2"},
+   {"mm": [156.1, 364.2, 171.0, 371.2], "text": "o-I"},
+   {"mm": [10.8, 334.2, 157.6, 363.2], "text": "-+-l----------------I~"},
+   {"mm": [88.7, 351.9, 112.7, 357.7], "text": "IN UT"},
+   {"mm": [305.1, 324.5, 331.2, 330.0], "text": "PCB 17"},
+   {"mm": [60.2, 278.5, 73.4, 283.8], "text": "TRA"},
+   {"mm": [83.6, 278.5, 117.7, 283.8], "text": "TOGET HER"},
+   {"mm": [59.4, 268.4, 100.8, 273.9], "text": "OR LOW GA"},
+   {"mm": [60.2, 225.4, 68.0, 230.9], "text": "TR"},
+   {"mm": [81.2, 225.4, 117.0, 230.9], "text": "TOGETH ER"},
+   {"mm": [55.3, 215.3, 63.7, 220.5], "text": "FO"},
+   {"mm": [77.5, 215.3, 98.5, 220.5], "text": "OW GA"},
+   {"mm": [150.7, 195.6, 157.2, 201.4], "text": "12"},
+   {"mm": [50.1, 185.0, 79.2, 190.3], "text": "NP UT AN"},
+   {"mm": [48.1, 177.9, 89.6, 183.2], "text": "REMOTE GAIN"},
+   {"mm": [48.1, 170.1, 57.9, 175.6], "text": "SHI"},
+   {"mm": [195.4, 160.4, 207.0, 165.7], "text": "EVE"},
+   {"mm": [31.1, 81.8, 59.4, 90.0], "text": "-0--0-"},
+   {"mm": [323.4, 81.6, 330.8, 89.3], "text": "14"},
+   {"mm": [46.4, 75.8, 53.3, 82.0], "text": "TE"},
+   {"mm": [29.4, 68.2, 51.0, 73.5], "text": "CON TR"},
+   {"mm": [151.1, 68.2, 158.7, 73.5], "text": "10"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [301.8, 31.5, 310.2, 37.3], "text": "CR"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [299.5, 23.7, 316.7, 29.3], "text": "IN 14"},
+   {"mm": [329.5, 23.7, 335.3, 29.3], "text": "IN"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [158.4, 367.5], "r": 1.5, "lines": 0}, {"c": [158.4, 343.2], "r": 1.6, "lines": 0}, {"c": [36.6, 86.3], "r": 1.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–431 mm up",
+  "- **Outlines:** line 238 rings, 5,420 straight (9,181 mm) / 767 curved (1,265 mm); text 141 rings, 1,289 straight (1,578 mm) / 305 curved (504 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 1.7 @ (57.9, 118.4), r 1.7 @ (159.3, 110.4), r 1.7 @ (158.7, 263.6), r 1.6 @ (159.1, 158.6)",
+  "- **Closed boxes:** 3; named: o-I 12; TRA TOGET HER OR LOW GA TR TOGETH ER FO ; 10",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 41 in 29 lines: P2 · o-I · -+-l----------------I~ · IN UT · PCB 17 · TRA · TOGET HER · OR LOW GA · TR · TOGETH ER · FO · OW GA"
+ ]
+}

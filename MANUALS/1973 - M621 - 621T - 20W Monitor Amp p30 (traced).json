@@ -1,0 +1,84 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp.pdf",
+ "page": 30,
+ "version": 1,
+ "trace": "_traces/ea35622ff72af157-p30.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "30", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 336.4, 425.3],
+ "outlines": {
+  "line": {"rings": 157, "straight": {"n": 4494, "mm": 7236.0}, "curved": {"n": 641, "mm": 1106.4}},
+  "text": {"rings": 185, "straight": {"n": 1583, "mm": 1923.8}, "curved": {"n": 406, "mm": 677.2}}
+ },
+ "circles": [
+  {"c": [299.4, 250.9], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [299.3, 275.4], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [179.9, 275.4], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [299.2, 267.3], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [299.0, 234.6], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [298.9, 226.5], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [299.1, 218.5], "r": 2.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [328.8, 218.1], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [328.5, 234.8], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [328.7, 226.1], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [328.2, 250.6], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [328.2, 275.7], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [180.2, 218.5], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [180.0, 226.5], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [9.4, 192.8, 28.5, 320.6], "w": 19.1, "h": 127.8, "from": "ring", "words": ["14", "12"]},
+  {"mm": [272.0, 271.8, 288.8, 283.9], "w": 16.8, "h": 12.1, "from": "ring"},
+  {"mm": [272.1, 243.8, 288.9, 271.4], "w": 16.8, "h": 27.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [305.3, 369.0, 336.4, 379.3], "text": "OUTPU"},
+   {"mm": [176.8, 326.9, 206.0, 337.2], "text": "8 OHM"},
+   {"mm": [294.7, 328.6, 323.9, 338.4], "text": "4 OHM"},
+   {"mm": [317.4, 272.0, 330.8, 279.0], "text": "16O"},
+   {"mm": [198.6, 271.0, 213.1, 277.9], "text": "160"},
+   {"mm": [316.9, 263.0, 332.1, 271.6], "text": "150"},
+   {"mm": [317.4, 254.8, 332.1, 263.4], "text": "140"},
+   {"mm": [20.1, 252.6, 28.3, 259.1], "text": "14"},
+   {"mm": [198.6, 247.9, 207.3, 254.3], "text": "13"},
+   {"mm": [320.8, 246.1, 332.3, 254.3], "text": "30"},
+   {"mm": [198.6, 238.6, 207.3, 245.5], "text": "12"},
+   {"mm": [199.1, 229.7, 216.3, 247.5], "text": "128"},
+   {"mm": [321.3, 237.9, 332.7, 246.6], "text": "20"},
+   {"mm": [176.0, 230.6, 189.3, 239.2], "text": "C3"},
+   {"mm": [321.9, 229.9, 332.7, 238.6], "text": "IO"},
+   {"mm": [317.4, 222.4, 332.1, 229.3], "text": "IOO"},
+   {"mm": [20.1, 206.8, 28.3, 213.8], "text": "12"},
+   {"mm": [162.6, 141.4, 217.6, 148.4], "text": "M5v 4 € 60 HZ"},
+   {"mm": [161.7, 128.7, 190.6, 136.8], "text": "OUTPUT"},
+   {"mm": [163.0, 118.3, 192.6, 125.3], "text": "PRIVARY"},
+   {"mm": [196.0, 117.7, 253.9, 125.8], "text": "DIRECT OUTPUT"},
+   {"mm": [162.1, 106.9, 223.9, 114.7], "text": "SIGNA L GROUND"},
+   {"mm": [163.0, 97.2, 224.5, 104.1], "text": "Chassis GROUND"},
+   {"mm": [327.1, 78.2, 336.4, 84.6], "text": "ISS"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–425 mm up",
+  "- **Outlines:** line 157 rings, 4,494 straight (7,236 mm) / 641 curved (1,106 mm); text 185 rings, 1,583 straight (1,924 mm) / 406 curved (677 mm)",
+  "- **Circles and arcs:** 14 circles, 0 arcs; largest r 3.1 @ (299.4, 250.9), r 3.0 @ (299.3, 275.4), r 2.8 @ (179.9, 275.4), r 2.7 @ (299.2, 267.3)",
+  "- **Closed boxes:** 3; named: 14 12",
+  "- **Words (OCR):** 27 in 24 lines: OUTPU · 8 OHM · 4 OHM · 16O · 160 · 150 · 140 · 14 · 13 · 30 · 12 · 128"
+ ]
+}

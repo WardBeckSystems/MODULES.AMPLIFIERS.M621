@@ -1,0 +1,123 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M621/MANUALS/1973 - M621 - 621T - 20W Monitor Amp.pdf",
+ "page": 28,
+ "version": 1,
+ "trace": "_traces/ea35622ff72af157-p28.svg",
+ "sheet": {
+  "number": "621-06-002",
+  "title": "Notes Cover Not Shown Heat Sink And Front",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "28", "pages": "32"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 336.4, 431.2],
+ "outlines": {
+  "line": {"rings": 582, "straight": {"n": 6312, "mm": 9330.5}, "curved": {"n": 1695, "mm": 1600.6}},
+  "text": {"rings": 319, "straight": {"n": 3460, "mm": 3697.7}, "curved": {"n": 915, "mm": 1090.5}},
+  "tb": {"rings": 80, "straight": {"n": 517, "mm": 561.4}, "curved": {"n": 100, "mm": 98.3}}
+ },
+ "circles": [
+  {"c": [97.9, 195.1], "r": 11.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [74.2, 223.5], "r": 7.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [74.8, 194.1], "r": 7.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [74.5, 224.0], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [74.7, 194.1], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [51.8, 174.0, 121.6, 274.2], "w": 69.8, "h": 100.2, "from": "ring", "words": ["PANEL", "FRONT", "Sw", "Rg4", "DS |", "R23"]},
+  {"mm": [91.8, 251.0, 102.4, 257.0], "w": 10.6, "h": 5.9, "from": "ring"},
+  {"mm": [66.9, 252.6, 70.0, 256.5], "w": 3.0, "h": 3.9, "from": "ring"},
+  {"mm": [30.0, 44.5, 108.9, 81.4], "w": 78.9, "h": 37.0, "from": "ring", "words": ["MATL ."]},
+  {
+   "mm": [176.2, 23.3, 333.1, 59.4],
+   "w": 157.0,
+   "h": 36.1,
+   "from": "ring",
+   "words": ["M62/", "AMPLIFIER", "MoNItoR", "20 WATT", "COMPONENT LAYOUT"]
+  },
+  {"mm": [30.4, 5.0, 109.5, 44.0], "w": 79.0, "h": 39.1, "from": "ring", "words": ["FINISH"]},
+  {"mm": [318.7, 9.7, 333.4, 24.6], "w": 14.7, "h": 15.0, "from": "ring"},
+  {"mm": [176.4, 7.1, 196.1, 22.3], "w": 19.7, "h": 15.2, "from": "ring"},
+  {"mm": [110.7, 6.0, 174.9, 22.0], "w": 64.2, "h": 16.0, "from": "ring", "words": ["TOLS"]}
+ ],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [183.7, 361.6, 213.7, 369.8], "text": "NOTES"},
+   {"mm": [228.9, 354.1, 247.2, 361.0], "text": "NT"},
+   {"mm": [250.2, 354.1, 281.3, 362.0], "text": "SHOWN"},
+   {"mm": [193.9, 352.3, 223.7, 360.5], "text": "COVER"},
+   {"mm": [217.6, 345.4, 260.2, 352.4], "text": "SINk AND"},
+   {"mm": [264.0, 345.9, 292.8, 353.5], "text": "FRONT"},
+   {"mm": [295.6, 346.3, 319.1, 354.7], "text": "PANEL"},
+   {"mm": [195.4, 344.8, 215.3, 351.7], "text": "HEAT"},
+   {"mm": [192.8, 334.9, 263.2, 344.5], "text": "SHOWN SEPARATE"},
+   {"mm": [266.2, 336.8, 283.5, 345.0], "text": "FOR"},
+   {"mm": [288.2, 336.6, 322.6, 346.9], "text": "CLARITY"},
+   {"mm": [196.5, 327.7, 209.4, 334.7], "text": "ALL"},
+   {"mm": [213.3, 328.2, 237.7, 335.1], "text": "VIEwS"},
+   {"mm": [241.8, 328.6, 263.0, 335.6], "text": "FROM"},
+   {"mm": [268.8, 329.2, 297.9, 336.2], "text": "INSIDE"},
+   {"mm": [66.7, 266.9, 88.3, 272.1], "text": "FRONT"},
+   {"mm": [92.0, 266.4, 113.3, 273.4], "text": "PANEL"},
+   {"mm": [90.7, 256.9, 102.1, 263.4], "text": "Sw"},
+   {"mm": [90.2, 238.6, 102.1, 245.0], "text": "Rg4"},
+   {"mm": [94.6, 228.4, 106.4, 234.9], "text": "DS |"},
+   {"mm": [90.7, 192.2, 104.7, 199.1], "text": "R23"},
+   {"mm": [0.0, 73.8, 13.0, 80.3], "text": ") ON"},
+   {"mm": [30.9, 73.8, 54.2, 80.8], "text": "MATL ."},
+   {"mm": [120.7, 62.8, 248.1, 77.0], "text": "WBS WARD-BECK"},
+   {"mm": [251.5, 66.9, 332.7, 77.0], "text": "BYSTEMS LTD."},
+   {"mm": [110.8, 49.2, 126.3, 56.2], "text": "DRN"},
+   {"mm": [137.7, 48.6, 153.5, 56.7], "text": "B7"},
+   {"mm": [239.2, 50.7, 261.5, 57.7], "text": "M62/"},
+   {"mm": [110.8, 35.6, 213.1, 48.0], "text": "DATE SEPT 73 20 WATT"},
+   {"mm": [256.9, 36.5, 301.0, 46.8], "text": "AMPLIFIER"},
+   {"mm": [31.3, 36.7, 53.5, 43.7], "text": "FINISH"},
+   {"mm": [217.0, 37.1, 252.0, 44.8], "text": "MoNItoR"},
+   {"mm": [111.2, 30.7, 127.8, 38.3], "text": "CKD"},
+   {"mm": [138.8, 32.0, 157.2, 39.4], "text": "0 0."},
+   {"mm": [213.5, 24.0, 295.4, 32.8], "text": "COMPONENT LAYOUT"},
+   {"mm": [111.2, 22.0, 158.3, 30.2], "text": "SCALE NIS"},
+   {"mm": [301.8, 14.0, 314.8, 21.7], "text": "ISS_"},
+   {"mm": [111.4, 10.6, 130.6, 18.7], "text": "TOLS"},
+   {"mm": [219.8, 11.2, 272.7, 18.9], "text": "621- 06- 002"}
+  ],
+  "scale": "NIS"
+ },
+ "title_block": {
+  "mm": [104.0, 13.5, 254.8, 85.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS WARD-BECK",
+   "DRN",
+   "B7",
+   "M62/",
+   "DATE SEPT 73 20 WATT",
+   "MoNItoR",
+   "CKD",
+   "0 0.",
+   "COMPONENT LAYOUT",
+   "SCALE NIS",
+   "TOLS",
+   "621- 06- 002"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 621-06-002, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px); scale NIS",
+  "- **Ink extent:** 0–336 mm across, 0–431 mm up",
+  "- **Outlines:** line 582 rings, 6,312 straight (9,330 mm) / 1,695 curved (1,601 mm); text 319 rings, 3,460 straight (3,698 mm) / 915 curved (1,090 mm); tb 80 rings, 517 straight (561 mm) / 100 curved (98.3 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 11.4 @ (97.9, 195.1), r 7.7 @ (74.2, 223.5), r 7.5 @ (74.8, 194.1), r 3.8 @ (74.5, 224.0)",
+  "- **Closed boxes:** 9; named: PANEL FRONT Sw Rg4 DS | R23; MATL .; M62/ AMPLIFIER MoNItoR 20 WATT COMPONENT; FINISH; TOLS",
+  "- **Words (OCR):** 46 in 39 lines: NOTES · NT · SHOWN · COVER · SINk AND · FRONT · PANEL · HEAT · SHOWN SEPARATE · FOR · CLARITY · ALL",
+  "- **Title block:** (104, 14)–(255, 86) mm: WBS WARD-BECK · DRN · B7 · M62/ · DATE SEPT 73 20 WATT · MoNItoR · CKD · 0 0. · COMPONENT LAYOUT · SCALE NIS · TOLS · 621- 06- 002"
+ ]
+}
