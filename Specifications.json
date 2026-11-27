@@ -1,0 +1,198 @@
+{
+ "module": "M621",
+ "title": "",
+ "source": {
+  "file": "MANUALS/1970 - M621 - M621T vint p5.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.97,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "43 or 63 dB matched gain (conditional frame strap) Front panel variable control",
+   "quantities": [
+    {
+     "value": 63,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25 dB from 20 Hz to 20 kHz",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "80 dB below 20 W",
+   "quantities": [
+    {
+     "value": 80,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "W"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "less than 0.259 from 20 Hz to 20 kHz measured at 20 W output level",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "W"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "20 dBm nominal, 0 dBm maximum (63 dB gain) dBm nominal, +18 dBm maximum (43 dB gain)",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "dBm"
+    },
+    {
+     "value": 0,
+     "unit": "dBm"
+    },
+    {
+     "value": 63,
+     "unit": "dB"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    },
+    {
+     "value": 43,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Longitudinal balance",
+   "key": "longitudinal_balance",
+   "text": "greater than 60 dB",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 Ohms or less, balanced or unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "Ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "20 kohms",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "kohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "Ohms nominal, or 16 Ohms with appropriate power output correction.",
+   "quantities": [
+    {
+     "value": 16,
+     "unit": "Ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "less than 0.5 Onms"
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "the low terminal number of the input pair is in phase with the direct output terminal"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "115 VAC, 60 Hz, 60 VA",
+   "quantities": [
+    {
+     "value": 115,
+     "unit": "VAC"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 60,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 608c"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "5.1W X 3.4H X 13.7D inches",
+   "quantities": [
+    {
+     "value": 5.1,
+     "unit": "W"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "lbs net"
+  }
+ ]
+}

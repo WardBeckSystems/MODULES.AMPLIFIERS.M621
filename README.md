@@ -13,6 +13,90 @@ Ward-Beck Systems M621, 1970|3. Wiki page: [M621 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 34 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 84 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [8 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1970 - M621 - M621T vint p5.jpg](MANUALS/1970%20-%20M621%20-%20M621T%20vint%20p5.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 43 or 63 dB matched gain (conditional frame strap) Front panel variable control |
+| **Frequency response** | ±0.25 dB from 20 Hz to 20 kHz |
+| **Noise** | 80 dB below 20 W |
+| **Total harmonic distortion** | less than 0.259 from 20 Hz to 20 kHz measured at 20 W output level |
+| **Input level** | 20 dBm nominal, 0 dBm maximum (63 dB gain) dBm nominal, +18 dBm maximum (43 dB gain) |
+| **Longitudinal balance** | greater than 60 dB |
+| **Source impedance** | 600 Ohms or less, balanced or unbalanced |
+| **Input impedance** | 20 kohms |
+| **Load impedance** | Ohms nominal, or 16 Ohms with appropriate power output correction. |
+| **Output impedance** | less than 0.5 Onms |
+| **Phasing** | the low terminal number of the input pair is in phase with the direct output terminal |
+| **Power requirements** | 115 VAC, 60 Hz, 60 VA |
+| **Ambient temperature** | to 608c |
+| **Dimensions** | 5.1W X 3.4H X 13.7D inches |
+| **Weight** | lbs net |
+
+## Circuit description
+
+From [1973 - M621 - 621T - 20W Monitor Amp (2).pdf](MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20(2).pdf) pages 3-5 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Input circuit.
+
+The balanced input to the amplifier is via module connect o r P2, pinEl 6 and 8.
+
+r Top rotect the amplifier from excessive signal voltages, the input is shunted by the ' over drive protection circuit ' formed by m., car. CR2 lind R2.
+
+The two operational amplifiers ZlA and ZlB operate in the inverting mode. The fee db a c k resistor s R5. R7. Re. RI J and R14 set the gain of ZlA. Likewise. RG, Rll and Rl 2 determine the gain of Z1B. The gain of these two amplifier ais lowered by 20 dB when the module connector p2. p imJ 6 and 14. as well as pins 7 and 15 are strapped together.
+
+The output of ZlA is connected to the inverting input of Z2 through RlS. while the output of Zl B connects to the no ni nve r ting input of Z2 via RIG. Thus, zz provides a differential input to the incoming signal and changes the balanced operation t o an unbalanced one. Whether the inputs o urce impe&quot;ance is balanced or unbalanced, the signal level out of Z2 will, for like input levels fran either kind of source, remain constant.
+
+Differential Balance Controls.
+
+R13 is the high gain &quot;iffe re ntia l balance control, and Rla is the low gain differential balance control. ellis a high frequency differential balance control, and should b e adj ullted when the amplifier is strapped for high gain operation.
+
+Gain Control.
+
+The output of zz is couple d through C16 tot h e front panel gain control R23. This gain control can bean external one, and can be located up to 20 feet frexn the amplifier. Connections for the external gain control are made via the module connector P2, pins 1 3 and 5. The wiper arm of the internal or thee x t erna l gain
+
+control is connl!'!cted to the input of the power amplifier via the
+
+contacts oft he muting relay xi, The schematic diagram shows Kl
+
+connected to the +30 V rail through R24. Depending on the interface
+
+too ther external control systems, i t maybe necessary to operate from a negatives upply. In that case, R24 should be connected to
+
+the -3 0 V rail and the suppressor diode CR3 reversed.
+
+Drivel:' and outPUt Stages
+
+ZJ an4 its associated components fOl:'m the pa..&gt;el:' amplifiel:' drive l:' stage. The output fl:'OllI the dr Lv ezis coupled thx'ough RS and the biasing diodes CRS and CR6 to the output powel:' t l:'a ns i s tors. 05 and 07 fOl:'m the uppe l:'. and 06 and OS the Lowe I:' half of the cOtnplimental:'y powel:' output stage.
+
+The ouput signal is taken f l:'om the junction of R60 &quot;l and R6l. and xout.ed via Ll to the module ccaneeecr Pl, pin L The feedback loop fol:' the ou~put stage connects to the same junction. The gain of the powe routput stage is de t el:'mi ned by the cat. Lo of R J 7 to RJS.
+
+Low Pass FilteX'
+
+RJO to RJ J. C20 and c2 l form an active low pass filter which limits the bandwidth of the amplifier to approx i mate l y JO kHz.
+
+OJ and 04 limit the o utp.lt power of the amplifier to a safe level should the load impedance become too 10'0/ fora variety of reasons.
+
+PO'o/er Supply and Regulator
+
+The amplifier operates from nominally +JO and -:-J O VDC. These DC voltage s are derived from the.a.c line via Tl and CR9. CJO am cJI filter the output f l:'om the bl:' i dge rectifier CR9.
+
+0 1 and 02. together with CR4. form a.:!:: 1 8 V l:'e gu lat OX' for the supply o f regulated DC tot h e low power stag&quot;s int he amplifier.
+
+Model M621 20W Monitor Amplifier
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
