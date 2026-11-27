@@ -141,11 +141,14 @@ Not on Google Drive yet: `1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIO
 
 ## RTO-144 pinout
 
-1 contacts. Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | OUTPUT SIGNAL | out |  | medium |
+| 8 | INPUT | in | INPUT | low |
+| 12 | INPUT SHIELD / GAIN CONTROL (uncertain) | other | INPUT | low |
+
+**Straps:** GAIN STRAPPING: 
 
 ## Manuals and documents
 

@@ -1,0 +1,80 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1970 - M621 - 621-02-002 - GAIN STRAPPING SEE NOTE.jpg",
+  "module": "M621",
+  "applies_to": [
+    "M621"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": null,
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P2",
+      "kind": "unknown",
+      "contacts": null,
+      "rows": "not readable (connector cut off at right edge)",
+      "view": null,
+      "part": null
+    },
+    {
+      "name": "(left connector)",
+      "kind": "unknown",
+      "contacts": null,
+      "rows": "9 contacts visible, unnumbered",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P2",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "P2 8 (top line of INPUT -20 dBm 600Ω BALANCED)",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "P2 12 (line from input cable shield, runs down toward a pot marked CW)",
+      "signal": "INPUT SHIELD / GAIN CONTROL (uncertain)",
+      "kind": "other",
+      "port": "INPUT",
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P2-8"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "GAIN STRAPPING",
+      "pins": [],
+      "note": "left connector: two adjacent contacts joined by a V-shaped strap labelled 'GAIN STRAPPING, SEE NOTE 1'; on the right, four short lines between the input pair marked 'SEE NOTE 1'. Note 1 itself is not on this picture."
+    }
+  ],
+  "unread": [
+    "picture is the left/centre portion of a larger sheet: title block, drawing number, notes 1 and 2, and the right-hand connector are cut off",
+    "left connector contacts carry no pin numbers; from top they are wired to: (blank), MUTE RELAY, MUTE RELAY/FUTURE REMOTE GAIN FACILITY (3 lines for 2 labels), FUTURE REMOTE GAIN FACILITY, 5K LOG EXTERNAL CONTROL (3 contacts, shielded, pot CW), GAIN STRAPPING (2 contacts), INPUT (2 contacts, shielded)",
+    "whether 'P2 12' labels the shield drain line or the lower input conductor is unclear"
+  ],
+  "confidence": "low",
+  "notes": "Interconnection drawing (sheet fragment) rather than a full pin table. Labels visible: 'INPUT -20 dBm 600Ω BALANCED' into P2 (pins 8 and 12 visible at right edge), 'MUTE RELAY', 'FUTURE REMOTE GAIN FACILITY', '5K LOG EXTERNAL CONTROL IF REQIRED. SEE NOTE 2' (sic), 'GAIN STRAPPING, SEE NOTE 1', 'INPUT'. Drawing number 621-02-002 and date 1970 come from the file name only, not readable on the picture. No outputs or inserts visible."
+}

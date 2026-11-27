@@ -1,0 +1,162 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1.jpg",
+  "module": "M621",
+  "applies_to": [
+    "M621T"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "621-02-004",
+    "title": "M621T OUTPUT TRANSFORMER CONNECTIONS",
+    "date": "1973-09",
+    "issue": "1",
+    "drawn": "BJ"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "16-pin plug, 2 rows (1-8 opposite 9-16)",
+      "contacts": 16,
+      "rows": "1-8 opposite 9-16",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "C (dashed, joined with 2)",
+      "signal": "LEAD C",
+      "kind": "other",
+      "port": "C",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "C (dashed, joined with 1)",
+      "signal": "LEAD C",
+      "kind": "other",
+      "port": "C",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "strap (no label)",
+      "signal": "IMPEDANCE STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "B (left side) in the 150 OHM/600 OHM layout",
+      "signal": "LEAD B (LEFT) / IMPEDANCE TAP",
+      "kind": "strap",
+      "port": "B",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "A",
+      "signal": "LEAD A",
+      "kind": "other",
+      "port": "A",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "D",
+      "signal": "LEAD D",
+      "kind": "other",
+      "port": "D",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "E (right side)",
+      "signal": "LEAD E",
+      "kind": "other",
+      "port": "E",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "B (right side)",
+      "signal": "LEAD B (RIGHT)",
+      "kind": "other",
+      "port": "B",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "strap (no label)",
+      "signal": "IMPEDANCE STRAP",
+      "kind": "strap",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "A",
+      "signal": "LEAD A",
+      "kind": "other",
+      "port": "A",
+      "polarity": null
+    }
+  ],
+  "ports": [],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "150 OHM OUTPUT",
+      "pins": [
+        "P1-5",
+        "P1-14"
+      ],
+      "note": "150 OHM: jumper P1-5 to P1-14; left lead B lands on P1-5; A on P1-16 and P1-7, C on P1-1 and P1-2 (joined), D on P1-9, right-hand B on P1-11, E on P1-10"
+    },
+    {
+      "name": "150 OHM OUTPUT",
+      "pins": [
+        "P1-3",
+        "P1-11"
+      ],
+      "note": "150 OHM: jumper P1-3 to P1-11; left lead B lands on P1-5; A on P1-16 and P1-7, C on P1-1 and P1-2 (joined), D on P1-9, right-hand B on P1-11, E on P1-10"
+    },
+    {
+      "name": "600 OHM OUTPUT",
+      "pins": [
+        "P1-3",
+        "P1-14"
+      ],
+      "note": "600 OHM: jumper P1-3 to P1-14; left lead B lands on P1-5; A on P1-16 and P1-7, C on P1-1 and P1-2 (joined), D on P1-9, right-hand B on P1-11, E on P1-10"
+    }
+  ],
+  "unread": [
+    "left-most connector (16 OHM) is cut off: only pins 9-16 visible, links 13-to-? and 11-B, 10-E; not recorded",
+    "150 OHM: the link from 3 runs up past 4/12 and lands at 11 - read as 3-11, could be 12"
+  ],
+  "confidence": "medium",
+  "notes": "Strapping drawing, not a signal pin table: the same 16-contact P1 is drawn once per output impedance with leads lettered A-E. What A-E are (transformer windings vs. amplifier output / load) is not stated on this picture, so no port directions or inserts are assigned. Right half of the sheet: (16 OHM partial), 150 OHM, 600 OHM. CKD PC."
+}
