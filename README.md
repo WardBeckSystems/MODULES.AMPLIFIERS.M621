@@ -4,13 +4,12 @@ Ward-Beck Systems M621, 1970|3. Wiki page: [M621 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 133 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 18 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 229 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 8 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 34 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 132 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 17 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 228 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 7 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 33 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 78 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -107,8 +106,6 @@ _Photographs of the module itself: front, back, inside, racked._
 
 Shared privately on Google Drive (opens after sign-in): [1970|3 · wbsps - module - m621 power amplifier](https://drive.google.com/file/d/0B0yR0b5T78SKM1k2Ny15NUFxOGs/view?resourcekey=0-r05iUcDAXvshtGkFyVsfQw) · [1970|3 · wbsps - promo - m621 monitor amp - 001_small](https://drive.google.com/file/d/0B0yR0b5T78SKMVlMRHd5ak5fVkU/view?resourcekey=0-J-cKpmRmx38qx3ezLuZtqA)
 
-Not on Google Drive yet: `19xx - M621 - M621 (2).jpg`
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -127,8 +124,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKS3VoTDdFZzYwakU/view?resourcekey=0-cBIZ7rGsgFQ4Fty3xDWvkA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKS3VoTDdFZzYwakU&resourcekey=0-cBIZ7rGsgFQ4Fty3xDWvkA" width="240" alt="1973 - M621 - 621-06-002 - WATT MONITOR AMPLIFIER.jpg"></a><br><sub>1973|6 · 621-06-002 - WATT MONITOR AMPLIFIER · <a href="SCHEMATICS/1973%20-%20M621%20-%20621-06-002%20-%20WATT%20MONITOR%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3 (2).jpg`, `1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -136,8 +131,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKak96RVhYMkpDTnM/view?resourcekey=0-GErrwZ6k5CQGp4g5S79wiw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKak96RVhYMkpDTnM&resourcekey=0-GErrwZ6k5CQGp4g5S79wiw" width="240" alt="1970 - M621 - 621-02-002 - GAIN STRAPPING SEE NOTE.jpg"></a><br><sub>1970|3 · 621-02-002 - GAIN STRAPPING SEE NOTE · <a href="PINOUTS/1970%20-%20M621%20-%20621-02-002%20-%20GAIN%20STRAPPING%20SEE%20NOTE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1.jpg`, `1973 - 621-02-004 - OUTPUT TRANSFORMER CONNECTIONS (4 OHM 16 OHM 150 OHM; title block cut - DRN BJ.jpg`
 
 ## RTO-144 pinout
 
@@ -208,7 +201,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1973 - M621 - 621T - 20W Monitor Amp p20.kicad_sch](KICAD/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p20.kicad_sch)
 - [1973 - M621 - 621T - 20W Monitor Amp p32.kicad_sch](KICAD/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp%20p32.kicad_sch)
 - [M621.kicad_sym](KICAD/M621.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
