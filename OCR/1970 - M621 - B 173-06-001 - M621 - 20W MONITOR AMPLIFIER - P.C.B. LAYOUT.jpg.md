@@ -1,5 +1,5 @@
 # 1970 - M621 - B 173-06-001 - M621 - 20W MONITOR AMPLIFIER - P.C.B. LAYOUT.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1973 (title block date)

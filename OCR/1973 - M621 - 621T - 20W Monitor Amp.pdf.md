@@ -1,5 +1,5 @@
 # 1973 - M621 - 621T - 20W Monitor Amp.pdf
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1973 (found in this file: "DATESEPT 73")

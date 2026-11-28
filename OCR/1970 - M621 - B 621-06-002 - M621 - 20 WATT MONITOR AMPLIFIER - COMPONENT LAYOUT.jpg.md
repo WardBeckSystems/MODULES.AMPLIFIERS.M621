@@ -1,5 +1,5 @@
 # 1970 - M621 - B 621-06-002 - M621 - 20 WATT MONITOR AMPLIFIER - COMPONENT LAYOUT.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

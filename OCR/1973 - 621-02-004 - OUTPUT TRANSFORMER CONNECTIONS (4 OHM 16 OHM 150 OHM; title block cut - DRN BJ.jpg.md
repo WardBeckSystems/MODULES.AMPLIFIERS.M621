@@ -1,5 +1,5 @@
 # 1973 - 621-02-004 - OUTPUT TRANSFORMER CONNECTIONS (4 OHM 16 OHM 150 OHM; title block cut - DRN BJ.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1973 (title block date)

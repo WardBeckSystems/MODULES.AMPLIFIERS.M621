@@ -1,5 +1,5 @@
 # 1970 - M621 - MODEL M621-M621T 20W MONITOR AMPLIFIER INSTRUCTION MANUAL.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

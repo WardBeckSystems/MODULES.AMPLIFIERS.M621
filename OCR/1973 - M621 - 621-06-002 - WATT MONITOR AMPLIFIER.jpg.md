@@ -1,5 +1,5 @@
 # 1973 - M621 - 621-06-002 - WATT MONITOR AMPLIFIER.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1973 (found in this file: "DATE SEPT 73")

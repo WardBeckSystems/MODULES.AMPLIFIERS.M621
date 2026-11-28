@@ -1,5 +1,5 @@
 # 1970 - M621 - 621-02-004 - OUTPUT PRIMARY DIRECT OUTPUT SIGNAL GROUND CHASSIS GROUND.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

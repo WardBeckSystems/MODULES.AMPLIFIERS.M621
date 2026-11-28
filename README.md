@@ -1,6 +1,6 @@
 # M621 20 Watt Monitor Amplifier · Amplifiers
 
-Ward-Beck Systems M621, 1970|3. Wiki page: [M621 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M621.html)
+Ward-Beck Systems M621, 1970|3. Wiki page: [M621 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M621-20-Watt-Monitor-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

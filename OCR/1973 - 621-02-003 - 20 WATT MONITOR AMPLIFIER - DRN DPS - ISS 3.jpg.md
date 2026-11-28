@@ -1,5 +1,5 @@
 # 1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1973 (title block date)

@@ -1,5 +1,5 @@
 # 1970 - M621 - 621-02-002 - MAIN BUILDING GROUND ILSS MOD (2).jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1970 (module estimate (labelled))

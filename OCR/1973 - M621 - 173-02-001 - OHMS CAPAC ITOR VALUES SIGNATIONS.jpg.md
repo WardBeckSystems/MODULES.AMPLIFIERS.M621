@@ -1,5 +1,5 @@
 # 1973 - M621 - 173-02-001 - OHMS CAPAC ITOR VALUES SIGNATIONS.jpg
-Wiki page: [M621](../../../../PAGES/M621.md)
+Wiki page: [M621](../)
 
 
 - **Year:** 1973 (found in this file: "DATE SEPT 1973")
